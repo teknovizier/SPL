@@ -10,7 +10,7 @@ Pytania zostały podzielone na przedmioty zgodnie z wymaganiami egzaminacyjnymi.
 
 | Przedmiot | Zaktualizowany? |
 |---|:---:|
-| [Prawo lotnicze](prawo-lotnicze.md) | ❌ |
+| [Prawo lotnicze](prawo-lotnicze.md) | ✅ |
 | [Ogólna wiedza o statku powietrznym](ogolna-wiedza-o-statku-powietrznym.md) | ❌ |
 | [Osiągi i planowanie lotu](osiagi-i-planowanie-lotu.md) | ❌ |
 | [Człowiek - możliwości i ograniczenia](czlowiek-mozliwosci-i-ograniczenia.md) | ❌ |
