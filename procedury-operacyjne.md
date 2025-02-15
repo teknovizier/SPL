@@ -1,6 +1,5 @@
 # Procedury operacyjne
 
-
 ## Pytanie PL070-0001
 `Kto w Polsce jest odpowiedzialny za podejmowanie działań w celu zapewnienia bezpieczeństwa lotów w lotnictwie cywilnym?`
 * **Prezes Urzędu Lotnictwa Cywilnego**
@@ -86,7 +85,7 @@
 * Statek powietrzny lądował w terenie przygodnym bez uszkodzeń.
 
 ## Pytanie PL070-0013
-`Który z wymienionych Aneksów Konwencji Chicagowskiej dotyczy badania wypadków i incydentów lotniczych`
+`Który z wymienionych Aneksów Konwencji Chicagowskiej dotyczy badania wypadków i incydentów lotniczych?`
 * **Aneks 13**
 * Aneks 11
 * Aneks 12
@@ -115,7 +114,7 @@
 
 ## Pytanie PL070-0020
 `Bezpośrednio po zajęciu miejsca w kabinie pilot statku powietrznego sprawdza:`
-* **Czy wszystkie przełączniki, dźwignie i urządzenia kontroli i sterowania znajdują się w położeniu określonym instrukcja użytkowania w locie.**
+* **Czy wszystkie przełączniki, dźwignie i urządzenia kontroli i sterowania znajdują się w położeniu określonym instrukcją użytkowania w locie.**
 * Czy wszystkie przełączniki, dźwignie i urządzenia kontroli i sterowania znajdują się w położeniu neutralnym.
 * Czystość i porządek w kabinie.
 * Czy wszystkie przełączniki, dźwignie i urządzenia kontroli i sterowania znajdują się w położeniu wyjściowym.
@@ -227,7 +226,7 @@
 
 ## Pytanie PL070-0043
 `Pojęcia: ALERFA, DETRESFA, INTERFA odnoszą się do:`
-* **Stanu zagrożenia dla statku powietrznego określanego przez służby SAR .**
+* **Stanu zagrożenia dla statku powietrznego określanego przez służby SAR.**
 * Stanu zdrowia załogi
 * Stanu pogody
 * Stanu lotniska
