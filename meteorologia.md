@@ -1,14 +1,14 @@
 # Meteorologia
 
 ## Pytanie PL050-0001
-`‘Deszcz przechłodzony” występuje, gdy:`
+`„Deszcz przechłodzony” występuje, gdy:`
 * **Temperatura cząsteczek wody jest niższa od 0°C z zachowaniem stanu ciekłego**
 * Temperatura cząsteczek wody jest wyższa od 0°C
 * Temperatura cząsteczek wody jest wyższa od temperatury powietrza otaczającego
 * Temperatura cząsteczek jest taka sama jak temperatura powietrza otaczającego
 
 ## Pytanie PL050-0002
-`‘Studnia termiczna” to;`
+`„Studnia termiczna” to:`
 * **Prąd opadający, występujący obok prądu pionowego**
 * Prąd niewystępujący w dniach termiki wypracowanej
 * Prąd opadający mniejszy od przekroju prądów wstępujących
@@ -154,13 +154,6 @@
 * Konwekcyjna
 * Z wyparowania
 
-## Pytanie PL050-0029
-`Front chłodny II rodzaju można zauważyć (będąc w powietrzu, przy dobrej widzialności) wzrokowo z odległości:`
-* **Ok. 50 km**
-* 400 km
-* 1000 km
-* 2 km
-
 ## Pytanie PL050-0031
 `Front chłodny przyspieszony przemieszcza się z prędkością:`
 * **Około 60 - 80 km/h**
@@ -212,8 +205,7 @@
 
 ## Pytanie PL050-0039
 `Izobary to linie łączące punkty o jednakowym:`
-* **Ciśnieniu zredukowanym do
-średniego poziomu morza**
+* **Ciśnieniu zredukowanym do średniego poziomu morza**
 * Ciśnieniu na poziomie ziemi
 * Spadku ciśnienia
 * Wzroście ciśnienia
@@ -224,13 +216,6 @@
 * Równoległy do izobar
 * Prostopadły do izobar
 * Niezwiązany z izobarami
-
-## Pytanie PL050-0041
-`Masy powietrza polarno-kontynentalne najczęściej obejmują swym wpływem obszar Polski w okresie:`
-* **Zimowym**
-* Późnej jesieni
-* Lata
-* Wczesnej jesieni
 
 ## Pytanie PL050-0043
 `Mgła adwekcyjna powstaje:`
@@ -252,13 +237,6 @@
 * Przed południem
 * Po południu
 * W dowolnej porze doby
-
-## Pytanie PL050-0047
-`Mgły o największym zasięgu obszarowym występują:`
-* **W wyżach**
-* W niżach
-* W siodłach barycznych
-* W zatokach niżowych
 
 ## Pytanie PL050-0048
 `Mgły w niżu powstają:`
@@ -395,7 +373,7 @@
 
 ## Pytanie PL050-0074
 `Oznaką turbulencji na małych wysokościach są:`
-* **Wiatry porywiste**
+* **Nagłe nasilenia i zmiany prędkości wiatru**
 * Wiatry spokojne bez porywów
 * Wiatry słabe
 * Cisze
@@ -430,8 +408,8 @@
 
 ## Pytanie PL050-0081
 `Powietrze nagrzane wznosząc się do góry od powierzchni ziemi (suchoadiabatyczny gradient temp.):`
-* **Ochładza się o 1&lt;sup&gt;°&lt;/sup&gt;C/100 m**
-* Ochładza się o 0,5°C/ 100 m
+* **Ochładza się o 1°C/100 m**
+* Ochładza się o 0,5°C/100 m
 * Ogrzewa się o 1°C/100 m
 * Ogrzewa się o 0,5°C/100 m
 
@@ -442,15 +420,8 @@
 * Siodle barycznym
 * Wyżu
 
-## Pytanie PL050-0083
-`Prędkość wiatru w prądach strumieniowych przekracza:`
-* **80 kt**
-* 100 kt
-* 100 m/s
-* 200 km/h
-
 ## Pytanie PL050-0084
-`Prędkość wiatru wraz z wysokością najczęściej:`
+`Prędkość wiatru w dolnej atmoferze, wraz z wysokością najczęściej:`
 * **Wzrasta**
 * Maleje
 * Nie zmienia się
@@ -467,7 +438,7 @@
 `Przy froncie ciepłym występują głównie chmury:`
 * **Warstwowe**
 * Kłębiaste
-* Kłębiasto - warstwowe
+* Kłębiasto-warstwowe
 * Tylko pierzaste
 
 ## Pytanie PL050-0087
@@ -534,7 +505,7 @@
 * Opad gradu
 
 ## Pytanie PL050-0096
-`Temperatura powietrza jest mierzona na wysokości:`
+`Temperatura powietrza na stacjach meteorologicznych jest mierzona na wysokości:`
 * **2 m**
 * 10 m
 * 5 cm
@@ -565,7 +536,7 @@
 `Temperatura, przy której skrapla się para wodna to:`
 * **Temperatura punktu rosy**
 * Temperatura parowania
-* 0<sup>°</sup>C
+* 0°C
 * Temperatura powietrza suchego
 
 ## Pytanie PL050-0103
@@ -612,11 +583,9 @@
 
 ## Pytanie PL050-0112
 `Wiatr porywisty podaje się, gdy:`
-* **prędkość maksymalna przekracza
-średnią o 5 m/s**
+* **prędkość maksymalna przekracza średnią o 5 m/s**
 * prędkość wiatru przekracza 10 m/s
-* prędkość maksymalna przekracza
-średnią barycznego 10 m/s
+* prędkość maksymalna przekracza średnią barycznego 10 m/s
 * prędkość wiatru jest duża
 
 ## Pytanie PL050-0113
@@ -627,7 +596,7 @@
 * Od ciśnienia niższego do wyższego
 
 ## Pytanie PL050-0114
-`Na półkuli północnej wiatr w niżu wieje`
+`Na półkuli północnej wiatr w niżu wieje:`
 * **Przeciwnie do ruchu wskazówek zegara ze skrętem ku ciśnieniu niższemu**
 * Przeciwnie do ruchu wskazówek zegara, wzdłuż izobar
 * Od wyżu do niżu
@@ -693,8 +662,8 @@
 `Wzrost ciśnienia oznacza zbliżanie:`
 * **Wyżu**
 * Niżu
-* Klina wyżowego
-* Bruzdy niskiego ciśnienia
+* Siodła barycznego
+* Zatoki niskiego ciśnienia
 
 ## Pytanie PL050-0124
 `Z okluzją ciepłą związane są układy chmur towarzyszące frontowi:`
@@ -720,7 +689,7 @@
 ## Pytanie PL050-0127
 `Zjawisko „Bryza” powstaje:`
 * **W rejonie brzegu morskiego**
-* W rejonie jezior mazurskich
+* Na obszarach górzystych i pagórkowatych
 * W rejonie Górnego Śląska
 * W rejonie Jury Częstochowskiej
 
@@ -741,8 +710,8 @@
 ## Pytanie PL050-0130
 `Ciśnienie w hPa możemy przeliczyć na mm Hg mnożąc przez:`
 * **0,75**
-* 1,333333333
-* 0,666666667
+* 1,33333333333333
+* 0,666666666666667
 * 1,25
 
 ## Pytanie PL050-0131
@@ -764,7 +733,7 @@
 * **Rejonie Tatr, Karkonoszy, Beskidów**
 * Rejonie Wielkopolski
 * Rejonie Mazowsza
-* Rejonie Górnego Śląska
+* Rejonie Pomorza
 
 ## Pytanie PL050-0134
 `Noszenia zboczowe powstają:`
@@ -777,7 +746,7 @@
 `Opady ciągłe występują z chmur:`
 * **Warstwowych**
 * Kłębiastych
-* Warstwowo - kłębiastych
+* Warstwowo-kłębiastych
 * Pierzastych
 
 ## Pytanie PL050-0137
@@ -802,7 +771,7 @@
 * Przed frontem chłodnym opóźnionym
 
 ## Pytanie PL050-0141
-`Pionowy gradient temperatury (wilgotnoadiabatyczny)w troposferze wynosi:`
+`Pionowy gradient temperatury (wilgotnoadiabatyczny) w troposferze wynosi:`
 * **0,65°C/100 m**
 * 1°C/100 m
 * 1,2°C/100 m
@@ -861,14 +830,14 @@
 `Temperatura na wysokości 500 m może być wyższa od przyziemnej, gdy występuje:`
 * **Inwersja**
 * Izoterma
-* Spadek temperatury mniejszy od 0,2<sup>°</sup>C/100m
-* Spadek temperatury 0,65<sup>°</sup>/100m
+* Spadek temperatury mniejszy od 0,2°C/100m
+* Spadek temperatury 0,65°/100m
 
 ## Pytanie PL050-0153
 `Termika naniesiona powstaje przy napływie:`
-* **Powietrza arktycznego lub polarno- morskiego**
+* **Powietrza arktycznego lub polarno-morskiego**
 * Powietrza polarno-kontynentalnego
-* Powietrza zwrotnikowo- kontynentalnego
+* Powietrza zwrotnikowo-kontynentalnego
 * Powietrza równikowego
 
 ## Pytanie PL050-0154
