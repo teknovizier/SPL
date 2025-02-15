@@ -18,4 +18,4 @@ Pytania zostały podzielone na przedmioty zgodnie z wymaganiami egzaminacyjnymi.
 | [Nawigacja](nawigacja.md) | ✅ |
 | [Procedury operacyjne](procedury-operacyjne.md) | ✅ |
 | [Zasady lotu](zasady-lotu.md) | ❌ |
-| [Łączność](lacznosc.md) | ❌ |
+| [Łączność](lacznosc.md) | ✅ |
