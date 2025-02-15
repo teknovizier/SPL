@@ -1,16 +1,5 @@
 # Zasady lotu
 
-
-
-
-
-
-
-
-
-
-
-
 ## Pytanie PL080-0001
 `Czy profile klasyczne są dużo bardziej „wrażliwe” na zabrudzenia od profili laminarnych?`
 * **nie**
@@ -40,7 +29,7 @@
 * - zastosować klapkę dociążającą; - zastosować wyważenia masowe lotek
 
 ## Pytanie PL080-0005
-`Aby zapobiec zjawisku odwrotnego działania lotek należy`
+`Aby zapobiec zjawisku odwrotnego działania lotek należy:`
 * **zwiększyć sztywność skrętną skrzydła**
 * zastosować kompensację aerodynamiczną
 * zastosować klapkę odciążającą
@@ -75,47 +64,46 @@
 * flatter usterzenia
 
 ## Pytanie PL080-0010
-`Ciało porusza się po okręgu z prędkością ‘&upsilon;’. Jeżeli zwiększymy dwukrotnie prędkość ciała to:`
-* **-prędkość kątowa ‘&omega;’ wzrośnie dwukrotnie -przyśpieszenie dośrodkowe "ar" wzrośnie czterokrotnie**
-* -prędkość kątowa ‘&omega;’ wzrośnie dwukrotnie -przyśpieszenie dośrodkowe "ar" wzrośnie dwukrotnie
-* -prędkość kątowa ‘&omega;’ wzrośnie czterokrotnie -przyśpieszenie dośrodkowe "ar" wzrośnie czterokrotnie
-* -prędkość kątowa ‘&omega;’ wzrośnie czterokrotnie -przyśpieszenie dośrodkowe "ar" wzrośnie dwukrotnie
+`Ciało porusza się po okręgu z prędkością ‘υ’. Jeżeli zwiększymy dwukrotnie prędkość ciała to:`
+* **- prędkość kątowa ‘ω’ wzrośnie dwukrotnie; - przyśpieszenie dośrodkowe "ar" wzrośnie czterokrotnie**
+* - prędkość kątowa ‘ω’ wzrośnie dwukrotnie; - przyśpieszenie dośrodkowe "ar" wzrośnie dwukrotnie
+* - prędkość kątowa ‘ω’ wzrośnie czterokrotnie; - przyśpieszenie dośrodkowe "ar" wzrośnie czterokrotnie
+* - prędkość kątowa ‘ω’ wzrośnie czterokrotnie; - przyśpieszenie dośrodkowe "ar" wzrośnie dwukrotnie
 
 ## Pytanie PL080-0011
-`Ciało porusza się po okręgu z prędkością ‘&upsilon;’. Jeżeli zwiększymy dwukrotnie promień okręgu  to:`
-* **-prędkość kątowa ‘&omega;’ zmaleje dwukrotnie -droga przebyta przez ciało w czasie okresu ‘T’ wzrośnie dwukrotnie -przyśpieszenie dośrodkowe ‘ar’ zmaleje dwukrotnie**
-* -prędkość kątowa ‘&omega;’ zmaleje dwukrotnie -droga przebyta przez ciało w czasie okresu ‘T’ zmaleje dwukrotnie -przyśpieszenie dośrodkowe ‘ar’ zmaleje dwukrotnie
-* -prędkość kątowa ‘&omega;’ zmaleje dwukrotnie -droga przebyta przez ciało w czasie okresu ‘T’ wzrośnie dwukrotnie -przyśpieszenie dośrodkowe ‘ar’ wzrośnie dwukrotnie
-* -prędkość kątowa ‘&omega;’ zmaleje dwukrotnie -droga przebyta przez ciało w czasie okresu "T" wzrośnie dwukrotnie -przyśpieszenie dośrodkowe ‘ar’ nie zmieni się
+`Ciało porusza się po okręgu z prędkością ‘υ’. Jeżeli zwiększymy dwukrotnie promień okręgu to:`
+* **- prędkość kątowa ‘ω’ zmaleje dwukrotnie; - droga przebyta przez ciało w czasie okresu ‘T’ wzrośnie dwukrotnie; - przyśpieszenie dośrodkowe ‘ar’ zmaleje dwukrotnie**
+* - prędkość kątowa ‘ω’ zmaleje dwukrotnie; - droga przebyta przez ciało w czasie okresu ‘T’ zmaleje dwukrotnie;  - przyśpieszenie dośrodkowe ‘ar’ zmaleje dwukrotnie
+* - prędkość kątowa ‘ω’ zmaleje dwukrotnie; - droga przebyta przez ciało w czasie okresu ‘T’ wzrośnie dwukrotnie; - przyśpieszenie dośrodkowe ‘ar’ wzrośnie dwukrotnie
+* - prędkość kątowa ‘ω’ zmaleje dwukrotnie; - droga przebyta przez ciało w czasie okresu "T" wzrośnie dwukrotnie; - przyśpieszenie dośrodkowe ‘ar’ nie zmieni się
 
 ## Pytanie PL080-0012
-`Ciało porusza się ze stałą prędkością ‘&upsilon;’ po okręgu o promieniu ‘R’. Wypadkowy wektor przyśpieszenia działającego na to ciało jest zawsze skierowany:`
+`Ciało porusza się ze stałą prędkością ‘υ’ po okręgu o promieniu ‘R’. Wypadkowy wektor przyśpieszenia działającego na to ciało jest zawsze skierowany:`
 * **w stronę środka okręgu**
 * na zewnątrz okręgu
-* skoro prędkość ‘&upsilon;’ jest stała, to na ciało nie działa żadne przyśpieszenie
+* skoro prędkość ‘υ’ jest stała, to na ciało nie działa żadne przyśpieszenie
 * stycznie do okręgu
 
 ## Pytanie PL080-0014
 `Ciśnienie statyczne w punkcie przejścia z opływu laminarnego w turbulentny jest:`
-* **minimalne na górnej powierzchni i maksymalne  na dolnej powierzchni**
+* **minimalne na górnej powierzchni i maksymalne na dolnej powierzchni**
 * maksymalne na górnej powierzchni i minimalne na dolnej powierzchni
 * minimalne na górnej powierzchni i minimalne na dolnej powierzchni
-* maksymalne na górnej powierzchni i maksymalne  na dolnej powierzchni
+* maksymalne na górnej powierzchni i maksymalne na dolnej powierzchni
 
 ## Pytanie PL080-0015
-`Co jest „równanie stanu powietrza” ?`
-* **Związek między ciśnieniem statycznym, gęstością, temperaturą i stałą gazową powietrza    p = &rho;.g.R.T  [Pa]**
-* Związek istniejący pomiędzy ciśnieniem powietrza i jego temperaturą.
-* Równanie określające równowagę między ciśnieniem powietrza i jego wilgotnością.
-* Równanie określające równowagę między ciśnieniem powietrza i przyspieszeniem ziemskim.
+`Co jest „równanie stanu powietrza”?`
+* **Związek między ciśnieniem statycznym, gęstością, temperaturą i stałą gazową powietrza p = ρ.g.R.T [Pa]**
+* Związek istniejący pomiędzy ciśnieniem powietrza i jego temperaturą
+* Równanie określające równowagę między ciśnieniem powietrza i jego wilgotnością
+* Równanie określające równowagę między ciśnieniem powietrza i przyspieszeniem ziemskim
 
 ## Pytanie PL080-0016
-`Co się rozumie pod pojęciem „sterowności” obiektu latającego (samolotu,
-śmigłowca, szybowca, lotni etc) ?`
-* **Zdolność do „odpowiadania” przez obiekt na zadawane przez pilota impulsy sterujące.**
-* Zapewnianie możliwości wykonywania manewrów akrobatycznych.
-* Zapewnianie uzyskiwania osiągów przewidzianych projektem obiektu.
-* Zapewnienie, że obiekt jest stateczny statycznie i dynamicznie.
+`Co się rozumie pod pojęciem „sterowności” obiektu latającego (samolotu, śmigłowca, szybowca, lotni etc)?`
+* **Zdolność do „odpowiadania” przez obiekt na zadawane przez pilota impulsy sterujące**
+* Zapewnianie możliwości wykonywania manewrów akrobatycznych
+* Zapewnianie uzyskiwania osiągów przewidzianych projektem obiektu
+* Zapewnienie, że obiekt jest stateczny statycznie i dynamicznie
 
 ## Pytanie PL080-0017
 `Co to jest „ciśnienie spiętrzeniowe”?`
@@ -133,24 +121,24 @@
 
 ## Pytanie PL080-0019
 `Co to jest „pułap teoretyczny” statku powietrznego (śmigłowca, samolotu, szybowca etc)?`
-* **Największa wysokość na którą teoretycznie statek powietrzny może się wznieść.**
-* Pułap obliczony w projekcie konstrukcyjnym statku powietrznego.
-* Wysokość, na której statek powietrzny dysponuje jeszcze prędkością wznoszenia 0,5 m/s.
-* Wysokość granicy atmosfery otaczającej Ziemię.
+* **Największa wysokość na którą teoretycznie statek powietrzny może się wznieść**
+* Pułap obliczony w projekcie konstrukcyjnym statku powietrznego
+* Wysokość, na której statek powietrzny dysponuje jeszcze prędkością wznoszenia 0,5 m/s
+* Wysokość granicy atmosfery otaczającej Ziemię
 
 ## Pytanie PL080-0020
 `Co to jest „stateczność statyczna” obiektu (samolotu, śmigłowca, szybowca, lotni etc)?`
-* **Istnienie tendencji (w postaci działania siły lub momentu) do powrotu do równowagi po wytrąceniu z niej.**
-* Stan równowagi spoczynkowej.
-* Brak reakcji na zakłócenia równowagi.
-* Wykonywanie przez obiekt statecznych wahań wokół osi poprzecznej.
+* **Istnienie tendencji (w postaci działania siły lub momentu) do powrotu do równowagi po wytrąceniu z niej**
+* Stan równowagi spoczynkowej
+* Brak reakcji na zakłócenia równowagi
+* Wykonywanie przez obiekt statecznych wahań wokół osi poprzecznej
 
 ## Pytanie PL080-0021
-`Co to jest „środek parcia profilu” ?`
+`Co to jest „środek parcia profilu”?`
 * **Wyobrażalny punkt na cięciwie profilu, w którym działa wypadkowa wszystkich sił aerodynamicznych występujących na profilu**
-* Punkt przyłożenia oporu.
-* Punkt, w którym wielkość ciśnienia jest średnia.
-* Środek długości cięciwy profilu.
+* Punkt przyłożenia oporu
+* Punkt, w którym wielkość ciśnienia jest średnia
+* Środek długości cięciwy profilu
 
 ## Pytanie PL080-0022
 `Co to jest „warstwa przyścienna”?`
@@ -161,104 +149,101 @@
 
 ## Pytanie PL080-0023
 `Co to jest „wydłużenie” skrzydła samolotu lub szybowca albo łopaty nośnej?`
-* **Stosunek rozpiętości do średniej cięciwy geometrycznej.**
-* Stosunek długości skrzydła lub łopaty do cięciwy u nasady.
+* **Stosunek rozpiętości do średniej cięciwy geometrycznej**
+* Stosunek długości skrzydła lub łopaty do cięciwy u nasady
 * Stosunek rozpiętości skrzydeł (średnicy wirnika) do długości samolotu (śmigłowca)
-* Stosunek średniej cięciwy aerodynamicznej do długości skrzydła lub łopaty.
+* Stosunek średniej cięciwy aerodynamicznej do długości skrzydła lub łopaty
 
 ## Pytanie PL080-0024
 `Co to jest elewacja lotniska?`
-* **Fizyczne wzniesienie (wysokość) płyty lotniska nad umowny poziom morza wg. ISA.**
-* Fasada budynku portowego lotniska.
-* Nawierzchnia płyty lotniska.
-* Kątowe pochylenie nawierzchni głównej drogi startowej.
+* **Fizyczne wzniesienie (wysokość) płyty lotniska nad umowny poziom morza wg. ISA**
+* Fasada budynku portowego lotniska
+* Nawierzchnia płyty lotniska
+* Kątowe pochylenie nawierzchni głównej drogi startowej
 
 ## Pytanie PL080-0025
 `Co to jest gęstość powietrza?`
-* **Ilość masy powietrza  zawartej w 1 m? objętości.**
-* Przeciwieństwo lepkości atmosferycznej.
-* Liczba molekuł tlenu i azotu w 1 cm? objętości.
-* Ciężar 1 m? powietrza.
+* **Ilość masy powietrza zawartej w 1 m³ objętości**
+* Przeciwieństwo lepkości atmosferycznej
+* Liczba molekuł tlenu i azotu w 1 cm³ objętości
+* Ciężar 1 m³ powietrza
 
 ## Pytanie PL080-0026
 `Co to jest Międzynarodowa Atmosfera Wzorcowa ISA (International Standard Atmosphere)?`
-* **Zbiór uznawanych za wzorcowe wielkości ciśnienia statycznego p, temperatur t i T oraz gęstości powietrza   &rho; na różnych wysokościach.**
-* Zbiór intormacji o parametrach atmosfery w siedzibie ONZ w Nowym Jorku.
-* Zbiór intormacji o parametrach atmosfery w siedzibie ICAO  w Montrealu.
-* Zestaw składu chemicznego powietrza na różnych wysokościach.
+* **Zbiór uznawanych za wzorcowe wielkości ciśnienia statycznego p, temperatur t i T oraz gęstości powietrza ρ na różnych wysokościach**
+* Zbiór informacji o parametrach atmosfery w siedzibie ONZ w Nowym Jorku
+* Zbiór informacji o parametrach atmosfery w siedzibie ICAO w Montrealu
+* Zestaw składu chemicznego powietrza na różnych wysokościach
 
 ## Pytanie PL080-0027
 `Co to jest wysokość ciśnieniowa nad poziomem lotniska?`
-* **Wysokość odczytywana na wysokościomierzu ciśnieniowym stawionym  na aktualne ciśnienie na poziomie lotniska QFE.**
-* Wysokość odczytywana na wysokościomierzu ciśnieniowym ustawionym na aktualne ciśnienie na poziomie morza QNH.
-* Wysokość wskazywana radiowysokościomierzem.
-* Wysokość elewacji lotniska.
+* **Wysokość odczytywana na wysokościomierzu ciśnieniowym stawionym na aktualne ciśnienie na poziomie lotniska QFE**
+* Wysokość odczytywana na wysokościomierzu ciśnieniowym ustawionym na aktualne ciśnienie na poziomie morza QNH
+* Wysokość wskazywana radiowysokościomierzem
+* Wysokość elewacji lotniska
 
 ## Pytanie PL080-0028
-`Co to jest wysokość ciśnieniowa nad poziomem morza?   .`
+`Co to jest wysokość ciśnieniowa nad poziomem morza?`
 * **Wysokość odczytywana na wysokościomierzu ciśnieniowym ustawionym na aktualne ciśnienie na poziomie morza QNH**
-* Wysokość elewacji lotniska.
+* Wysokość elewacji lotniska
 * Wysokość odczytywana na wysokościomierzu ciśnieniowym ustawionym na aktualne ciśnienie na poziomie lotniska QFE
-* Wysokość wskazywana radiowysokościomierzem.
+* Wysokość wskazywana radiowysokościomierzem
 
 ## Pytanie PL080-0029
 `Co to jest wysokość gęstościowa?`
-* **Wysokość pozorna, na której gęstość powietrza jest równa wartości standardowej wg. atmosfery ISA.**
+* **Wysokość pozorna, na której gęstość powietrza jest równa wartości standardowej wg. atmosfery ISA**
 * Wysokość zgodna z Międzynarodową Atmosferą Wzorcową ISA (International Standard Atmosphere)
 * Wysokość elewacji lotniska z poprawką na aktualną gęstość powietrza
 * Wysokość ciśnieniowa z poprawką na wilgotność powietrza
 
 ## Pytanie PL080-0030
 `Co to jest wysokość standardowa?`
-* **Wysokość odczytywana na wysokościomierzu ciśnieniowym ustawionym na standardową wartość na poziomie morza (QNH), tj. po = 1013,25 hPa  =  760 mm Hg.**
+* **Wysokość odczytywana na wysokościomierzu ciśnieniowym ustawionym na standardową wartość na poziomie morza (QNH), tj. po = 1013,25 hPa = 760 mm Hg**
 * Wysokość odczytywana na standardowym wysokościomierzu radiowym
-* Wysokość elewacji lotniska.
-* Wysokość gęstościowa skorygowana o wpływ temperatury otoczenia.
+* Wysokość elewacji lotniska
+* Wysokość gęstościowa skorygowana o wpływ temperatury otoczenia
 
 ## Pytanie PL080-0031
-`Czy między ciśnieniem statycznym powietrza p, jego temperaturą bezwzględną T i gęstością   &rho; istnieje jakiś związek?`
-* **Tak, wyrażony tzw. równaniem stanu p =    &rho;.g.R.T  [Pa], w którym g oznacza przyspieszenie ziemskie g = 9,81 m/s? zaś R stałą gazową powietrza R = 29,2746 m/K.**
-* Tak, związek ma postać Prawa Pałki p = &fnof;R.g.   &rho;?.dT [Pa], gdzie g oznacza  przyspieszenie ziemskie g
-= 9,81 m/s? zaś R stałą gazową powietrza R = 29,2746 m/K.
-* Związek ma postać krakowiana  f [&Aring;, g, p,   &rho;, T]
-* Nie ma takiego związku.
+`Czy między ciśnieniem statycznym powietrza p, jego temperaturą bezwzględną T i gęstością ρ istnieje jakiś związek?`
+* **Tak, wyrażony tzw. równaniem stanu p = ρ.g.R.T [Pa], w którym g oznacza przyspieszenie ziemskie g = 9,81 m/s² zaś R stałą gazową powietrza R = 29,2746 m/K**
+* Tak, związek ma postać Prawa Pałki p = ƒR.g. ρ?.dT [Pa], gdzie g oznacza przyspieszenie ziemskie g = 9,81 m/s² zaś R stałą gazową powietrza R = 29,2746 m/K
+* Związek ma postać krakowiana f [Å, g, p, ρ, T]
+* Nie ma takiego związku
 
 ## Pytanie PL080-0032
 `Czy obiekt (samolot, śmigłowiec, szybowiec, lotnia etc) niestateczny statycznie może być stateczny dynamicznie?`
-* **Nie.**
-* Tak.
-* Stateczność statyczna dla stateczności dynamicznej nie ma znaczenia.
-* Obiekt-stałopłat – tak, obiekt-wiropłat
-– nie.
+* **Nie**
+* Tak
+* Stateczność statyczna dla stateczności dynamicznej nie ma znaczenia
+* Obiekt -stałopłat – tak, obiekt-wiropłat – nie
 
 ## Pytanie PL080-0034
 `Czy wzrost stateczności powoduje zmianę sterowności?`
 * **tak, sterowność maleje**
 * tak, sterowność rośnie
-* nie, zamiany stateczności nie powodują zmian sterowności
+* nie, zmiany stateczności nie powodują zmian sterowności
 * tak, na dużych kątach natarcia sterowność rośnie, a na małych maleje
 
 ## Pytanie PL080-0035
 `Czym się różnią stateczność statyczna i stateczność dynamiczna obiektu (samolotu, śmigłowca, szybowca, lotni etc)?`
-* **Stateczność statyczna uwzględnia tylko tendencję do powrotu do równowagi, stateczność dynamiczna uwzględnia charakter ruchu obiektu.**
-* Nie ma żadnej różnicy, zjawisko jest to samo, tylko inne nazwy.
-* Wymienione stateczności różnią się ważnością, ważniejsza jest stateczność dynamiczna..
-* Stateczność statyczna dotyczy równowagi na ziemi, stateczność dynamiczna – równowagi w locie.
+* **Stateczność statyczna uwzględnia tylko tendencję do powrotu do równowagi, stateczność dynamiczna uwzględnia charakter ruchu obiektu**
+* Nie ma żadnej różnicy, zjawisko jest to samo, tylko inne nazwy
+* Wymienione stateczności różnią się ważnością, ważniejsza jest stateczność dynamiczna
+* Stateczność statyczna dotyczy równowagi na ziemi, stateczność dynamiczna – równowagi w locie
 
 ## Pytanie PL080-0036
 `Czym się wyraża „niestateczność statyczna” obiektu (samolotu, śmigłowca, szybowca, lotni etc)?`
-* **Istnieniem tendencji (w postaci działania siły lub momentu) do pogłębiania odejścia od stanu równowagi po wytrąceniu z niej.**
-* Brakiem jakiejkolwiek reakcji obiektu na wytrącenie go z równowagi.
-* Wykonywaniem przez obiekt statecznych wahań wokół osi poprzecznej.
-* Stanem równowagi spoczynkowej.
+* **Istnieniem tendencji (w postaci działania siły lub momentu) do pogłębiania odejścia od stanu równowagi po wytrąceniu z niej**
+* Brakiem jakiejkolwiek reakcji obiektu na wytrącenie go z równowagi
+* Wykonywaniem przez obiekt statecznych wahań wokół osi poprzecznej
+* Stanem równowagi spoczynkowej
 
 ## Pytanie PL080-0037
-`Czym się wyraża „stateczność statyczna obojętna” obiektu (samolotu,
-śmigłowca, szybowca, lotni etc)?`
-* **Brakiem jakiejkolwiek reakcji obiektu na wytrącenie go z równowagi.**
-* Istnieniem tendencji (w postaci działania siły lub momentu) do powrotu do równowagi po wytrąceniu z niej.
-* Wykonywaniem przez obiekt statecznych wahań wokół osi poprzecznej.
-* Stanem równowagi spoczynkowej.
+`Czym się wyraża „stateczność statyczna obojętna” obiektu (samolotu, śmigłowca, szybowca, lotni etc)?`
+* **Brakiem jakiejkolwiek reakcji obiektu na wytrącenie go z równowagi**
+* Istnieniem tendencji (w postaci działania siły lub momentu) do powrotu do równowagi po wytrąceniu z niej
+* Wykonywaniem przez obiekt statecznych wahań wokół osi poprzecznej
+* Stanem równowagi spoczynkowej
 
 ## Pytanie PL080-0038
 `Dla płata o jakim profilu nie powstaje opór indukowany na zerowym kącie natarcia?`
@@ -304,11 +289,10 @@
 
 ## Pytanie PL080-0044
 `Do jakiego wykresu odnosi się potoczna nazwa „Krzywa Lilienthala”?`
-* **Do krzywej biegunowej pokazującej zależność siły nośnej od oporu..**
-* Do biegunowej autorotacji.
-* Do wykresu mocy potrzebnej.
-* Do wykresu zwanego w Polsce
-„krzywą Tytusa Hubera”
+* **Do krzywej biegunowej pokazującej zależność siły nośnej od oporu**
+* Do biegunowej autorotacji
+* Do wykresu mocy potrzebnej
+* Do wykresu zwanego w Polsce „krzywą Tytusa Hubera”
 
 ## Pytanie PL080-0046
 `Do urządzeń powiększających powierzchnię skrzydła możemy zaliczyć:`
@@ -320,7 +304,7 @@
 ## Pytanie PL080-0047
 `Do urządzeń przeszkadzających odrywaniu się strug powietrza na grzbiecie skrzydła możemy zaliczyć:`
 * **sloty (skrzela)**
-* klapę wysklepiająca
+* klapę wysklepiającą
 * klapę krokodylową
 * poszerzacz
 
@@ -360,11 +344,11 @@
 * odwrotnym działaniem usterzeń
 
 ## Pytanie PL080-0053
-`Gdy powietrze wpada z prędkością V do kanału  o zmiennej powierzchni przekroju, zmianie ulega tej prędkości. Jak?`
+`Gdy powietrze wpada z prędkością V do kanału o zmiennej powierzchni przekroju, zmianie ulega tej prędkości. Jak?`
 * **przy maleniu powierzchni przekroju prędkość V zwiększa się**
 * prędkość V zmienia się tak samo jak ciśnienie statyczne
 * prędkość V nie zmienia się wcale
-* przy maleniu powierzchni przekroju prędkość V maleje a przy zwiększaniu powierzchni rośnie
+* przy maleniu powierzchni przekroju prędkość V maleje, a przy zwiększaniu powierzchni rośnie
 
 ## Pytanie PL080-0054
 `Grubość profilu to:`
@@ -417,24 +401,24 @@
 
 ## Pytanie PL080-0061
 `Jak nazywa się wykres przedstawiający zależność współczynnika siły nośnej Cz od współczynnika oporu Cx statku powietrznego?`
-* **Biegunowa.**
-* Krzywa doskonałości.
-* Biegunowa prędkości.
+* **Biegunowa**
+* Krzywa doskonałości
+* Biegunowa prędkości
 * Wykres sprawności
 
 ## Pytanie PL080-0062
 `Jak się nazywa prędkość statku powietrznego (śmigłowca, samolotu, szybowca etc) oznaczana V<sub>NE</sub>?`
 * **Maksymalna prędkość dopuszczalna**
-* Prędkość przelotowa.
-* Prędkość ekonomiczna.
-* Prędkość optymalna.
+* Prędkość przelotowa
+* Prędkość ekonomiczna
+* Prędkość optymalna
 
 ## Pytanie PL080-0063
 `Jak się nazywają i jakie w układzie SI mają symbole jednostki masy, długości i czasu?`
 * **Kilogram (kg), metr (m) i sekunda (sec)**
-* Kilogram (kg), kilometr (km) i sekunda (sec).
-* Kilogram (kg), mila morska (nm) i godzina (h).
-* Tona (t), metr (m) i minuta (min).
+* Kilogram (kg), kilometr (km) i sekunda (sec)
+* Kilogram (kg), mila morska (nm) i godzina (h)
+* Tona (t), metr (m) i minuta (min)
 
 ## Pytanie PL080-0064
 `Jak się nazywają i jakie w układzie SI mają symbole jednostki siły, ciśnienia i temperatury?`
@@ -444,11 +428,11 @@
 * Kilogram-siła (kG), atmosfera (at), Kelwin (K)
 
 ## Pytanie PL080-0065
-`Jak w jednostkach podstawowych układu SI można zapisać wielkość ciśnienia 1000 hPa ?`
-* **100000 N/m?**
-* 1000000 N/m?
-* 1000 N/m?
-* 10000 N/m?
+`Jak w jednostkach podstawowych układu SI można zapisać wielkość ciśnienia 1000 hPa?`
+* **100000 N/m²**
+* 1000000 N/m²
+* 1000 N/m²
+* 10000 N/m²
 
 ## Pytanie PL080-0066
 `Jak zmieni się promień zakrętu prawidłowego, jeżeli przy stałym przechyleniu zwiększymy prędkość dwukrotnie?`
@@ -466,10 +450,10 @@
 
 ## Pytanie PL080-0068
 `Jak zmienia się wysokość gęstościowa w sytuacji, gdy temperatura powietrza jest wyższa od standardowej wartości ISA?`
-* **Wzrasta.**
+* **Wzrasta**
 * Nieznacznie maleje
-* Nie zmienia się.
-* Maleje w proporcji do odwrotności gęstości względnej &sigma;.
+* Nie zmienia się
+* Maleje w proporcji do odwrotności gęstości względnej σ
 
 ## Pytanie PL080-0069
 `Jaka jest różnica pomiędzy korkociągiem płaskim i stromym?`
@@ -479,64 +463,64 @@
 * w czasie lotu pilot nie widzi żadnej różnicy
 
 ## Pytanie PL080-0072
-`Jaka wzorcowa wielkość ciśnienia powietrza na poziomie morza wyrażona w starych jednostkach „milimetrów słupa rtęci” odpowiada po = 1013,25 hPa?.`
-* **760 mm Hg.**
+`Jaka wzorcowa wielkość ciśnienia powietrza na poziomie morza wyrażona w starych jednostkach „milimetrów słupa rtęci” odpowiada po = 1013,25 hPa?`
+* **760 mm Hg**
 * 800 mm Hg
 * 750 mm Hg
 * 860 mm Hg
 
 ## Pytanie PL080-0073
-`Jaką nazwę nosi stosunek ciśnienia statycznego na dowolnej wysokości do wzorcowego ciśnienia na poziomie morza  &delta; =  p/ po ?`
-* **ciśnienie względne.**
+`Jaką nazwę nosi stosunek ciśnienia statycznego na dowolnej wysokości do wzorcowego ciśnienia na poziomie morza Δ = p/po?`
+* **ciśnienie względne**
 * ciśnienie standardowe
 * ciśnienie modułowe
 * liczba Hipokryta
 
 ## Pytanie PL080-0074
-`Jaką nazwę nosi stosunek gęstości powietrza na dowolnej wysokości do wzorcowej (standardowej) gęstości  na poziomie morza  σ =   ρ/  ρo?`
-* **Gęstość powietrza względna.**
+`Jaką nazwę nosi stosunek gęstości powietrza na dowolnej wysokości do wzorcowej (standardowej) gęstości na poziomie morza σ = ρ/ρo?`
+* **Gęstość powietrza względna**
 * Stała Laplace’a
-* Współczynnik M&amp;S
-* Współczynnik Piccarda.
+* Współczynnik M&S
+* Współczynnik Piccarda
 
 ## Pytanie PL080-0075
-`Jaką nazwę nosi stosunek temperatury powietrza na dowolnej wysokości, wyrażonej w Kelwinach (K), do wzorcowej temperatury na poziomie morza, również wyrażonej w Kelwinach (K) &Theta; = T/To?`
-* **Bezwymiarowa temperatura względna.**
-* Temperatura absolutna.
-* Stała don Pedra.
+`Jaką nazwę nosi stosunek temperatury powietrza na dowolnej wysokości, wyrażonej w Kelwinach (K), do wzorcowej temperatury na poziomie morza, również wyrażonej w Kelwinach (K) Θ = T/To?`
+* **Bezwymiarowa temperatura względna**
+* Temperatura absolutna
+* Stała don Pedra
 * Współczynnik d’Amore’a
 
 ## Pytanie PL080-0076
 `Jaką wielkość ma wzorcowe (standardowe) ciśnienie statyczne na poziomie morza?`
-* **po = 101325  N/m?  =  1013,25 hPa**
-* po = 100000  N/m?  =  1000,00 hPa
-* po = 111325  N/m?  =  1113,25 hPa
-* po = 100025  N/m?  =  1000,25 hPa
+* **po = 101325 N/m² = 1013,25 hPa**
+* po = 100000 N/m² = 1000,00 hPa
+* po = 111325 N/m² = 1113,25 hPa
+* po = 100025 N/m² = 1000,25 hPa
 
 ## Pytanie PL080-0077
-`Jaką wielkość, wyrażoną w Kelwinach (K)  ma wzorcowa (standardowa) temperatura powietrza na poziomie morza?`
-* **To  =  288  K.**
-* To  =  258  K.
-* To  =  277  K.
-* To  =  301  K.
+`Jaką wielkość, wyrażoną w Kelwinach (K) ma wzorcowa (standardowa) temperatura powietrza na poziomie morza?`
+* **To = 288 K**
+* To = 258 K
+* To = 277 K
+* To = 301 K
 
 ## Pytanie PL080-0078
-`Jaką wielkość, wyrażoną w kg/m?, ma wzorcowa (standardowa) gęstość powietrza   &rho;o na poziomie morza?`
-* **&rho;o  =  1,2255 kg/m?.**
-* &rho;o  =  1,0000 kg/m?.
-* &rho;o  =  1,0255 kg/m?.
-* &rho;o  =  1,2000 kg/m?.
+`Jaką wielkość, wyrażoną w kg/m³, ma wzorcowa (standardowa) gęstość powietrza ρo na poziomie morza?`
+* **ρo = 1,2255 kg/m³**
+* ρo = 1,0000 kg/m³
+* ρo = 1,0255 kg/m³
+* ρo = 1,2000 kg/m³
 
 ## Pytanie PL080-0079
-`Jaką wielkość, wyrażoną w stopniach Celsiusza (?C)  ma wzorcowa (standardowa) temperatura powietrza na poziomie morza?`
-* **t = +15 &lt; sup &gt; o&lt; /sup &gt; C**
-* t = +10 &lt; sup &gt; o&lt; /sup &gt; C
-* t = +20 &lt; sup &gt; o&lt; /sup &gt; C
-* t = +16,5 &lt; sup &gt; o&lt; /sup &gt; C
+`Jaką wielkość, wyrażoną w stopniach Celsiusza (°C) ma wzorcowa (standardowa) temperatura powietrza na poziomie morza?`
+* **t = +15 °C**
+* t = +10 °C
+* t = +20 °C
+* t = +16,5 °C
 
 ## Pytanie PL080-0080
-`Jaki istnieje związek między wielkością temperatury powietrza t wyrażonej w stopniach Celsiusza (&lt; sup&gt;?&lt; / sup&gt; C) i temperatury T wyrażonej w Kelwinach (K)?`
-* **T = t + 273.**
+`Jaki istnieje związek między wielkością temperatury powietrza t wyrażonej w stopniach Celsiusza (°C) i temperatury T wyrażonej w Kelwinach (K)?`
+* **T = t + 273**
 * T = t + 233
 * T = t + 283
 * T = t + 373
@@ -550,14 +534,14 @@
 
 ## Pytanie PL080-0083
 `Jakie parametry służą określeniu fizycznego stanu powietrza?`
-* **Ciśnienie statyczne, temperatura i gęstość.**
+* **Ciśnienie statyczne, temperatura i gęstość**
 * Wilgotność i ciśnienie dynamiczne
 * Temperatura, gęstość i kinematyczna lepkość
-* Proporcje zawartości azotu i tlenu.
+* Proporcje zawartości azotu i tlenu
 
 ## Pytanie PL080-0084
 `Jakie przedrostki w symbolach jednostek miar SI oznaczają zwielokrotnienie o 10, 100 i 1000?`
-* **Deka- (da), hekto- (h), kilo- (k).**
+* **Deka- (da), hekto- (h), kilo- (k)**
 * Kilo- (k), mega- (m), deka- (da)
 * Decy- (dc), hekto- (h), mega- (M)
 * Mega- (M), giga- (G), piko- (p)
@@ -571,24 +555,24 @@
 
 ## Pytanie PL080-0086
 `Jakiemu celowi służy tzw. „mechanizacja skrzydła” (klapy, sloty, interceptory etc)?`
-* **Celem  jest zmienianie współczynników aerodynamicznych w celu wywierania wpływu na  osiągi (np. prędkość podejścia do lądowania)**
-* Celem jest zwiększanie udźwigu statku powietrznego.
-* Celem jest zwiększanie prędkości statku powietrznego.
-* Celem jest zwiększanie osiągów przelotowych i przez to ekonomii użytkowania statku powietrznego.
+* **Celem jest zmienianie współczynników aerodynamicznych w celu wywierania wpływu na osiągi (np. prędkość podejścia do lądowania)**
+* Celem jest zwiększanie udźwigu statku powietrznego
+* Celem jest zwiększanie prędkości statku powietrznego
+* Celem jest zwiększanie osiągów przelotowych i przez to ekonomii użytkowania statku powietrznego
 
 ## Pytanie PL080-0087
 `Jakim przyrządem mierzona jest wysokość rzeczywista, czyli oddalenie statku powietrznego od powierzchni ziemi?`
-* **Wysokościomierzem radiowym (radarowym).**
-* Wysokościomierzem ciśnieniowym.
-* Dalmierzem optycznym.
-* Przyrządem DME.
+* **Wysokościomierzem radiowym (radarowym)**
+* Wysokościomierzem ciśnieniowym
+* Dalmierzem optycznym
+* Przyrządem DME
 
 ## Pytanie PL080-0088
-`Jedną z miar stateczności dynamicznej obiektu (samolotu, śmigłowca, szybowca, lotni etc)  jest „czas połówkowy”. Co to jest za wielkość?`
-* **Czas jaki upływa od odchylenia od równowagi o jakąś wielkość do chwili zmalenia tego odchylenia do połowy (50%).**
-* Czas połowy okresu wahań fugoidalnych wywołanych odchyleniem.
-* Czas połowy okresu drgań flatterowych wywołanych wytrąceniem z równowagi.
-* Czas połowy okresu własnych drgań konstrukcji (struktury) obiektu.
+`Jedną z miar stateczności dynamicznej obiektu (samolotu, śmigłowca, szybowca, lotni etc) jest „czas połówkowy”. Co to jest za wielkość?`
+* **Czas jaki upływa od odchylenia od równowagi o jakąś wielkość do chwili zmalenia tego odchylenia do połowy (50%)**
+* Czas połowy okresu wahań fugoidalnych wywołanych odchyleniem
+* Czas połowy okresu drgań flatterowych wywołanych wytrąceniem z równowagi
+* Czas połowy okresu własnych drgań konstrukcji (struktury) obiektu
 
 ## Pytanie PL080-0089
 `Jeżeli ciało wytrącone ze stanu równowagi krótkotrwałym impulsem zewnętrznym porusza się ruchem jednostajnym, to mamy do czynienia z:`
@@ -623,7 +607,7 @@
 * **wzrośnie czterokrotnie**
 * wzrośnie dwukrotnie
 * zmaleje czterokrotnie
-* zmaleje czterokrotnie
+* zmaleje dwukrotnie
 
 ## Pytanie PL080-0094
 `Jeżeli zmniejszymy temperaturę przepływającego powietrza, nie zmieniając kąta natarcia, powierzchni skrzydła i prędkości przepływu to:`
@@ -645,13 +629,6 @@
 * zawsze prawda
 * fałsz, współczynnik oporu kształtu nie zależy od kształtu ciała
 * prawda tylko dla profili lotniczych
-
-## Pytanie PL080-0097
-`Kąt natarcia dla którego C&lt; sub &gt; x &lt; /sub &gt; = C &lt; sub &gt; xmin &lt; /sub &gt;  zawsze jest:`
-* **mniejszy od kąta natarcia dla(Cz/Cx)max**
-* mniejszy od kąta natarcia dla optymalnego Cx
-* równy kątowi natarcia dla C &lt; sub &gt; z &lt;/sub &gt; = 0
-* większy od kąta natarcia dla Clt; sub &gt; z &lt; /sub &gt;  = 0
 
 ## Pytanie PL080-0098
 `Kąt natarcia płata o profilu wklęsło-wypukłym, dla którego nie powstaje opór indukowany ma wartość:`
@@ -676,10 +653,10 @@
 
 ## Pytanie PL080-0101
 `Kiedy wysokość wskazywana na ziemi przez wysokościomierz ciśnieniowy jest wysokością standardową równą elewacji lotniska?`
-* **W warunkach zgodnych z podanymi w tabeli Międzynarodowej Atmosfery Wzorcowej ISA.**
+* **W warunkach zgodnych z podanymi w tabeli Międzynarodowej Atmosfery Wzorcowej ISA**
 * W warunkach tropikalnych
-* Gdy wysokościomierz radiowy wskazuje 0.
-* W warunkach arktycznych.
+* Gdy wysokościomierz radiowy wskazuje 0
+* W warunkach arktycznych
 
 ## Pytanie PL080-0102
 `Klapy stosuje się w celu:`
@@ -697,8 +674,8 @@
 
 ## Pytanie PL080-0104
 `Kompensacja aerodynamiczna steru nazywa się również wyważeniem aerodynamicznym steru.`
-* **PRAWDA**
-* FAŁSZ
+* **prawda**
+* fałsz
 * prawda, ale tylko wtedy, jeżeli nie zastosowano wyważenia masowego steru
 * prawda, ale tylko wtedy, jeżeli nie zastosowano klapki wyważającej
 
@@ -718,23 +695,23 @@
 
 ## Pytanie PL080-0107
 `Którą oś układu współrzędnych nazywamy osią pionową?`
-* **oś OZ?**
-* oś OX?
-* oś OY?
+* **oś OZ**
+* oś OX
+* oś OY
 * takiej nazwy nie używa się
 
 ## Pytanie PL080-0108
 `Którą oś układu współrzędnych nazywamy osią podłużną?`
-* **oś OX?**
-* oś OY?
-* oś OZ?
+* **oś OX**
+* oś OY
+* oś OZ
 * takiej nazwy nie używa się
 
 ## Pytanie PL080-0109
 `Którą oś układu współrzędnych nazywamy osią poprzeczną?`
-* **oś OY?**
-* oś OZ?
-* oś OX?
+* **oś OY**
+* oś OZ
+* oś OX
 * takiej nazwy nie używa się
 
 ## Pytanie PL080-0110
@@ -746,10 +723,10 @@
 
 ## Pytanie PL080-0112
 `Który opis wielkości fizycznej charakteryzuje energię potencjalną?`
-* **- iloczyn ciężaru i wysokości ciała- jednostka dżul [J]**
-* - iloczyn masy i wysokości ciała- jednostka dżul [J]
-* - iloczyn ciężaru i wysokości ciała- jednostka wat [W]
-* - iloczyn masy i wysokości ciała- jednostka wat [W]
+* **- iloczyn ciężaru i wysokości ciała - jednostka dżul [J]**
+* - iloczyn masy i wysokości ciała - jednostka dżul [J]
+* - iloczyn ciężaru i wysokości ciała - jednostka wat [W]
+* - iloczyn masy i wysokości ciała - jednostka wat [W]
 
 ## Pytanie PL080-0116
 `Linia krzywa przedstawiająca kształt skrzydeł widzianych z góry to:`
@@ -766,7 +743,7 @@
 * szkieletowa płata
 
 ## Pytanie PL080-0118
-`Linia łącząca ostrza (spływy)  profili płata lotniczego to:`
+`Linia łącząca ostrza (spływy) profili płata lotniczego to:`
 * **geometryczna krawędź spływu**
 * geometryczna krawędź natarcia
 * geometryczna cięciwa aerodynamiczna
@@ -780,7 +757,7 @@
 * grubość profilu
 
 ## Pytanie PL080-0121
-`Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu ‘Cx’ ma wartość minimalną: &alpha;=&alpha;Cxmin. W wyniku niewielkiego zwiększenia kąta natarcia:`
+`Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu ‘Cx’ ma wartość minimalną: α=αCx min. W wyniku niewielkiego zwiększenia kąta natarcia:`
 * **procentowe zwiększenie "Cz" będzie większe od procentowego zwiększenia "Cx"**
 * procentowe zwiększenie "Cx" będzie większe od procentowego zwiększenia "Cz"
 * procentowe zwiększenie "Cx" będzie takie same jak procentowe zwiększenia "Cz"
@@ -795,10 +772,10 @@
 
 ## Pytanie PL080-0123
 `Lotki zaprojektowane są w celu obracania płatowca względem:`
-* **ośi OX›**
-* ośi OY›
-* ośi OZ›
-* ośi OZ› i ośi OY›
+* **osi OX**
+* osi OY
+* osi OZ
+* osi OZ i osi OY
 
 ## Pytanie PL080-0124
 `Maksymalna dopuszczalna prędkość lotu ‘VNE’ to:`
@@ -816,17 +793,17 @@
 
 ## Pytanie PL080-0126
 `Maksymalna prędkość lotu w atmosferze, w której dochodzi do gwałtownych zmian prędkości pionowej otaczającego powietrza oznaczana jest:`
-* **V &lt;sub &gt; RAamp; &lt; /sub &gt;**
-* V &lt; sub &gt; NE &lt; /sub &gt;
-* V &lt; sub &gt; NO &lt; /sub &gt;
-* V &lt; sub &gt; A &lt; /sub &gt;
+* **VRA**
+* VNE
+* VNO
+* VA
 
 ## Pytanie PL080-0127
 `Maksymalna prędkość, przy której można jeszcze użyć pełnych wychyleń sterów bez przekroczenia maksymalnego przeciążenia oznaczana jest:`
-* **V&lt;sub>A&lt;/sub>**
-* V&lt;sub &gt; RA&lt;/sub &gt;
-* V &lt;sub &gt; NE&lt;/sub &gt;
-* V &lt; sub &gt; NO &lt;/sub &gt;
+* **VA**
+* **VRA**
+* VNE
+* VNO
 
 ## Pytanie PL080-0128
 `Mechanizację skrzydła stosuje się w celu:`
@@ -836,7 +813,7 @@
 * poprawienia stateczności w pełnym zakresie kątów natarcia
 
 ## Pytanie PL080-0129
-`Minimalną wartość współczynnika siły oporu Cx otrzymujemy dla kąta natarcia &alpha; = 0°`
+`Minimalną wartość współczynnika siły oporu Cx otrzymujemy dla kąta natarcia α = 0°`
 * **prawda tylko dla profili symetrycznych**
 * zawsze prawda
 * zawsze fałsz
@@ -844,10 +821,10 @@
 
 ## Pytanie PL080-0130
 `Moment aerodynamiczny mierzony względem środka aerodynamicznego w zakresie prędkości użytkowych:`
-* **prawie nie zależy od kata natarcia, ale jest proporcjonalny do kwadratu prędkości lotu**
-* jest proporcjonalny do kata natarcia i kwadratu prędkości lotu
-* prawie nie zależy od kata natarcia i prędkości lotu
-* jest stały i nie zależy od kata natarcia i prędkości lotu
+* **prawie nie zależy od kąta natarcia, ale jest proporcjonalny do kwadratu prędkości lotu**
+* jest proporcjonalny do kąta natarcia i kwadratu prędkości lotu
+* prawie nie zależy od kąta natarcia i prędkości lotu
+* jest stały i nie zależy od kąta natarcia i prędkości lotu
 
 ## Pytanie PL080-0132
 `Moment oporowy lotek powstaje ponieważ:`
@@ -872,8 +849,8 @@
 
 ## Pytanie PL080-0139
 `Na płacie o skończonym wydłużeniu strugi powietrza opływające go:`
-* **- odchylają się w stronę środka płata na górnej powierzchni - odchylają się w stronę końca płata na dolnej powierzchni**
-* - odchylają się w stronę środka płata na dolnej powierzchni - odchylają się w stronę końca płata na górnej powierzchni
+* **- odchylają się w stronę środka płata na górnej powierzchni; - odchylają się w stronę końca płata na dolnej powierzchni**
+* - odchylają się w stronę środka płata na dolnej powierzchni; - odchylają się w stronę końca płata na górnej powierzchni
 * - odchylają się w stronę środka płata na górnej i dolnej powierzchni
 * - odchylają się w stronę końca płata na górnej i dolnej powierzchni
 
@@ -886,13 +863,13 @@
 
 ## Pytanie PL080-0142
 `Największa prędkość, z jaką można wykonywać lot w powietrzu spokojnym oznaczana jest:`
-* **V<sub>NE</sub>**
-* V<sub>NO</sub>
-* V<sub>A</sub>
-* V<sub>RA</sub>
+* **VNE**
+* VNO
+* VA
+* VRA
 
 ## Pytanie PL080-0143
-`Niekorzystny moment obrotowy względem osi OZ›, który powstaje w wyniku wychylenia lotek o ten sam kąt w przeciwne strony nazywamy:`
+`Niekorzystny moment obrotowy względem osi OZ, który powstaje w wyniku wychylenia lotek o ten sam kąt w przeciwne strony nazywamy:`
 * **momentem oporowym lotek**
 * moment przechylającym lotek
 * momentem holendrowania
@@ -913,11 +890,11 @@
 * dynamicznej kierunkowej
 
 ## Pytanie PL080-0146
-`Niewielkie zwiększanie kąta natarcia &alpha;=&alpha; optymalne powoduje:`
-* **zwiększanie ‘C<sub>x</sub>’ oraz ‘C<sub>z</sub>’**
-* zmniejszanie ‘C<sub>x</sub>’ oraz ‘C<sub>z</sub>’
-* zwiększanie ‘C<sub>x</sub>’ oraz zmniejszanie ‘C<sub>z</sub>’
-* zwiększanie ‘C<sub>z</sub>’ oraz zmniejszanie ‘C<sub>x</sub>’
+`Niewielkie zwiększanie kąta natarcia α=α optymalne powoduje:`
+* **zwiększanie ‘Cx’ oraz ‘Cz’**
+* zmniejszanie ‘Cx’ oraz ‘Cz’
+* zwiększanie ‘Cx’ oraz zmniejszanie ‘Cz’
+* zwiększanie ‘Cz’ oraz zmniejszanie ‘Cx’
 
 ## Pytanie PL080-0147
 `Oblodzenie powierzchni nośnych powoduje:`
@@ -956,7 +933,7 @@
 
 ## Pytanie PL080-0152
 `Opór ciała poruszającego się w powietrzu zależy od:`
-* **współczynnika oporu, powierzchni odniesienia, gęstości powietrza kwadratu prędkości lotu**
+* **współczynnika oporu, powierzchni odniesienia, gęstości powietrza i kwadratu prędkości lotu**
 * współczynnika siły nośnej, oporu kształtu i powierzchni nośnej
 * współczynnika oporu i ciśnienia całkowitego
 * mocy silnika i prędkości lotu
@@ -1012,8 +989,8 @@
 
 ## Pytanie PL080-0160
 `Płytowe usterzenie wysokości jednocześnie spełnia rolę statecznika poziomego i steru wysokości.`
-* **PRAWDA**
-* FAŁSZ
+* **prawda**
+* fałsz
 * prawda, ale tylko w przypadku, gdy płatowiec jest niestateczny statycznie
 * prawda, ale tylko w przypadku, gdy płatowiec jest niestateczny dynamicznie
 
@@ -1096,10 +1073,10 @@
 
 ## Pytanie PL080-0174
 `Prędkość, do jakiej nie przewiduje się ograniczeń użytkowania szybowca zgodnie z jego przeznaczeniem oznaczana jest:`
-* **V<sub>NO</sub>**
-* V<sub>A</sub>
-* V<sub>RA</sub>
-* V<sub>NE</sub>
+* **VNO**
+* VA
+* VRA
+* VNE
 
 ## Pytanie PL080-0176
 `Profile laminarne to profile, w których:`
@@ -1189,8 +1166,8 @@
 `Punkt styczności biegunowej szybowca i prostej poprowadzonej ze środka układu współrzędnych odpowiada kątowi natarcia dla:`
 * **prędkości optymalnej**
 * prędkości ekonomicznej
-* Cz  maksymalnego
-* Cx  minimalnego
+* Cz maksymalnego
+* Cx minimalnego
 
 ## Pytanie PL080-0191
 `Punkt, w którym linia działania wypadkowej siły aerodynamicznej przecina cięciwę profilu to:`
@@ -1222,10 +1199,10 @@
 
 ## Pytanie PL080-0195
 `Ruch statku powietrznego podczas lotu opisywany jest za pomocą:`
-* **trzech osi współrzędnych OX›, OY›, OZ›**
-* dwóch osi współrzędnych OX› oraz OY›
-* jednej osi współrzędnych OX›
-* czterech osi współrzędnych OW›, OX›, OY›, OZ›
+* **trzech osi współrzędnych OX, OY, OZ**
+* dwóch osi współrzędnych OX oraz OY
+* jednej osi współrzędnych OX
+* czterech osi współrzędnych OW, OX, OY, OZ
 
 ## Pytanie PL080-0196
 `Siła oporu skrzydła przemieszczającego się w fazie autorotacji w dół jest:`
@@ -1305,7 +1282,7 @@
 * pochylania
 
 ## Pytanie PL080-0211
-`Stosunek drogi S przebytej w czasie t do czasu t  to:`
+`Stosunek drogi S przebytej w czasie t do czasu t to:`
 * **prędkość średnia**
 * przyspieszenie średnie
 * prędkość chwilowa
@@ -1340,11 +1317,11 @@
 * linia łącząca ostrza profili płata lotniczego
 
 ## Pytanie PL080-0216
-`Średnie przyśpieszenie kątowe ‘&epsilon;śr’ w ruchu obrotowym jest:`
-* **-wprost proporcjonalne do przyrostu prędkości kątowej w czasie pomiaru - odwrotnie proporcjonalne do czasu pomiaru**
-* -wprost proporcjonalne do przyrostu prędkości kątowej w czasie pomiaru - wprost proporcjonalne do czasu pomiaru
-* -odwrotnie proporcjonalne do przyrostu prędkości kątowej w czasie pomiaru -odwrotnie proporcjonalna do czasu pomiaru
-* -odwrotnie proporcjonalne do przyrostu prędkości kątowej w czasie pomiaru -wprost proporcjonalne do czasu pomiaru
+`Średnie przyśpieszenie kątowe ‘εśr’ w ruchu obrotowym jest:`
+* **- wprost proporcjonalne do przyrostu prędkości kątowej w czasie pomiaru; - odwrotnie proporcjonalne do czasu pomiaru**
+* - wprost proporcjonalne do przyrostu prędkości kątowej w czasie pomiaru; - wprost proporcjonalne do czasu pomiaru
+* - odwrotnie proporcjonalne do przyrostu prędkości kątowej w czasie pomiaru; - odwrotnie proporcjonalne do czasu pomiaru
+* - odwrotnie proporcjonalne do przyrostu prędkości kątowej w czasie pomiaru; - wprost proporcjonalne do czasu pomiaru
 
 ## Pytanie PL080-0217
 `Środek aerodynamiczny to punkt:`
@@ -1371,8 +1348,8 @@
 `Tłumienie zmian parametrów lotu ma wpływ na:`
 * **równowagę dynamiczną**
 * równowagę statyczną stałą
-* równowagą statyczną chwiejną
-* równowagą statyczną obojętną
+* równowagę statyczną chwiejną
+* równowagę statyczną obojętną
 
 ## Pytanie PL080-0221
 `Trzepotanie usterzeń to inaczej:`
@@ -1390,17 +1367,17 @@
 
 ## Pytanie PL080-0223
 `Usterzenie kierunku zaprojektowane jest w celu obracania płatowca względem:`
-* **ośi OZ›**
-* ośi OX›
-* ośi OY›
-* ośi OX› i ośi OY›
+* **osi OZ**
+* osi OX
+* osi OY
+* osi OX i osi OY
 
 ## Pytanie PL080-0224
 `Usterzenie wysokości zaprojektowane jest w celu obracania płatowca względem:`
-* **ośi OY›**
-* ośi OZ›
-* ośi OX›
-* ośi OZ› i ośi OX›
+* **osi OY**
+* osi OZ
+* osi OX
+* osi OZ i osi OX
 
 ## Pytanie PL080-0225
 `W celu zlikwidowania momentu oporowego lotek z reguły stosuje się:`
@@ -1411,24 +1388,24 @@
 
 ## Pytanie PL080-0226
 `W codziennym życiu spotykamy się ze stanem równowagi:`
-* **- stałej ;  - obojętnej;  - chwiejnej**
-* - stałej ;  - chwiejnej;  - ruchomej
-* - stałej ;  - obojętnej;  - ruchomej
-* - nieobojętnej;  - obojętnej;  - chwiejnej
+* **- stałej; - obojętnej; - chwiejnej**
+* - stałej; - chwiejnej; - ruchomej
+* - stałej; - obojętnej; - ruchomej
+* - nieobojętnej; - obojętnej; - chwiejnej
 
 ## Pytanie PL080-0227
 `W jakich warunkach wysokość gęstościowa jest równa wysokości standardowej wg atmosfery ISA?`
-* **W warunkach zgodnych z tabelą Międzynarodowej Atmosfery Wzorcowej ISA.**
-* W warunkach tropikalnych.
+* **W warunkach zgodnych z tabelą Międzynarodowej Atmosfery Wzorcowej ISA**
+* W warunkach tropikalnych
 * W warunkach arktycznych
 * Gdy wysokość standardowa jest równa wysokości elewacji lotniska
 
 ## Pytanie PL080-0228
 `W jakiej proporcji do gęstości powietrza są zależne siły aerodynamiczne na profilu lotniczym?`
-* **Wprost proporcjonalnie.**
-* Odwrotnie proporcjonalnie.
-* W proporcji do kwadratu gęstości.
-* Są od gęstości powietrza niezależne.
+* **Wprost proporcjonalnie**
+* Odwrotnie proporcjonalnie
+* W proporcji do kwadratu gęstości
+* Są od gęstości powietrza niezależne
 
 ## Pytanie PL080-0229
 `W której grupie znajduje się urządzenie, które nie służy do zmniejszania sił, jakie pilot musi wywierać na drążek sterowy?`
@@ -1438,7 +1415,7 @@
 * - wzmacniacz hydrauliczny; - klapka odciążająca
 
 ## Pytanie PL080-0230
-`W normalnych warunkach lotu siły na sterownicach są :`
+`W normalnych warunkach lotu siły na sterownicach są:`
 * **zawsze odpowiednio proporcjonalne do zmian ruchu lub zmian stanu lotu**
 * zawsze odpowiednio proporcjonalne do wysokości i prędkości lotu
 * niezależne od prędkości lotu
@@ -1448,18 +1425,18 @@
 `W profilach o normalnym, łukowatym kształcie linii szkieletowej, przy wzroście kąta natarcia wypadkowa siła aerodynamiczna:`
 * **przesuwa się wzdłuż cięciwy do przodu**
 * przesuwa się wzdłuż cięciwy do tyłu
-* dla &alpha;&lt;0 przesuwa się wzdłuż cięciwy do przodu, a dla &alpha;&gt;0 przesuwa się wzdłuż cięciwy do tyłu
+* dla α<0 przesuwa się wzdłuż cięciwy do przodu, a dla α>0 przesuwa się wzdłuż cięciwy do tyłu
 * nie przesuwa się wzdłuż cięciwy
 
 ## Pytanie PL080-0232
 `W profilach samostatecznych, przy wzroście kąta natarcia wypadkowa siła aerodynamiczna:`
 * **przesuwa się wzdłuż cięciwy do tyłu**
-* dla &alpha;&lt;0 przesuwa się wzdłuż cięciwy do przodu, a dla &alpha;&gt;0 przesuwa się wzdłuż cięciwy do tyłu
+* dla α<0 przesuwa się wzdłuż cięciwy do przodu, a dla α>0 przesuwa się wzdłuż cięciwy do tyłu
 * nie przesuwa się wzdłuż cięciwy
 * przesuwa się wzdłuż cięciwy do przodu
 
 ## Pytanie PL080-0233
-`W profilach symetrycznych dla kąta natarcia &alpha;=0°:`
+`W profilach symetrycznych dla kąta natarcia α=0°:`
 * **cięciwa geometryczna profilu pokrywa się z cięciwą aerodynamiczną profilu**
 * cięciwa geometryczna profilu nie pokrywa się z cięciwą aerodynamiczną profilu
 * cięciwa geometryczna profilu pokrywa się ze średnią cięciwą aerodynamiczną profilu
@@ -1470,38 +1447,31 @@
 * **nie przesuwa się wzdłuż cięciwy**
 * przesuwa się wzdłuż cięciwy do przodu
 * przesuwa się wzdłuż cięciwy do tyłu
-* dla &alpha;&lt;0 przesuwa się wzdłuż cięciwy do przodu, a dla &alpha;&gt;0 przesuwa się wzdłuż cięciwy do tyłu
+* dla α<0 przesuwa się wzdłuż cięciwy do przodu, a dla α>0 przesuwa się wzdłuż cięciwy do tyłu
 
 ## Pytanie PL080-0235
 `W rozwiązaniu konwencjonalnym usterzenie pionowe składa się ze:`
-* **-statecznika pionowego stanowiącego przednią, nieruchomą część-steru kierunku stanowiącego tylną ruchomą część**
-* -statecznika pionowego stanowiącego przednią, nieruchomą część-steru wysokości stanowiącego tylną ruchomą część
-* -statecznika pionowego stanowiącego tylną, nieruchomą część-steru kierunku stanowiącego przednią ruchomą część
-* -statecznika pionowego stanowiącego przednią, ruchomą część-steru kierunku stanowiącego tylną nieruchomą część
-
-## Pytanie PL080-0236
-`W rozwiązaniu konwencjonalnym usterzenie wysokości składa się ze:`
-* **-statecznika poziomego stanowiącego przednią, nieruchomą część-steru wysokości stanowiącego tylną ruchomą część**
-* -statecznika pionowego stanowiącego przednią, nieruchomą część-steru wysokości stanowiącego tylną ruchomą część
-* -statecznika poziomego stanowiącego tylną, nieruchomą część-steru wysokości stanowiącego przednią ruchomą część
-* -statecznika poziomego stanowiącego przednią, ruchomą część-steru wysokości stanowiącego tylną nieruchomą część
+* **- statecznika pionowego stanowiącego przednią, nieruchomą część; - steru kierunku stanowiącego tylną ruchomą część**
+* - statecznika pionowego stanowiącego przednią, nieruchomą część; - steru wysokości stanowiącego tylną ruchomą część
+* - statecznika pionowego stanowiącego tylną, nieruchomą część; - steru kierunku stanowiącego przednią ruchomą część
+* - statecznika pionowego stanowiącego przednią, ruchomą część; - steru kierunku stanowiącego tylną nieruchomą część
 
 ## Pytanie PL080-0237
-`W układzie współrzędnych opisującym ruch statku powietrznego podczas lotu oś OX? nazywamy:`
+`W układzie współrzędnych opisującym ruch statku powietrznego podczas lotu oś OX nazywamy:`
 * **osią podłużną**
 * osią poprzeczną
 * osią pionową
 * osią poziomą
 
 ## Pytanie PL080-0238
-`W układzie współrzędnych opisującym ruch statku powietrznego podczas lotu oś OY? nazywamy:`
+`W układzie współrzędnych opisującym ruch statku powietrznego podczas lotu oś OY nazywamy:`
 * **osią poprzeczną**
 * osią pionową
 * osią poziomą
 * osią podłużną
 
 ## Pytanie PL080-0239
-`W układzie współrzędnych opisującym ruch statku powietrznego podczas lotu oś OZ? nazywamy:`
+`W układzie współrzędnych opisującym ruch statku powietrznego podczas lotu oś OZ nazywamy:`
 * **osią pionową**
 * osią poziomą
 * osią podłużną
@@ -1536,14 +1506,14 @@
 * przepływ ma charakter turbulentny
 
 ## Pytanie PL080-0245
-`Wartość współczynnika siły nośnej Cz dla krytycznego kąta natarcia ‘&alpha; kr’ przyjmuje wartość maksymalną.`
+`Wartość współczynnika siły nośnej Cz dla krytycznego kąta natarcia ‘α kr’ przyjmuje wartość maksymalną.`
 * **zawsze prawda**
 * zawsze fałsz
 * prawda tylko dla profili symetrycznych
 * fałsz tylko dla profili symetrycznych
 
 ## Pytanie PL080-0246
-`Wartość współczynnika siły oporu Cx dla krytycznego kąta natarcia ‘&alpha; kr’ przyjmuje wartość maksymalną.`
+`Wartość współczynnika siły oporu Cx dla krytycznego kąta natarcia ‘α kr’ przyjmuje wartość maksymalną.`
 * **zawsze fałsz**
 * zawsze prawda
 * prawda tylko dla profili symetrycznych
@@ -1566,28 +1536,28 @@
 ## Pytanie PL080-0251
 `Współczynnik przeciążenia "n" w locie nurkowym wynosi:`
 * **n=0**
-* n&lt;0
-* n&gt;0
+* n<0
+* n>0
 * n=1
 
 ## Pytanie PL080-0252
 `Współczynnik przeciążenia w zakręcie zależy od:`
-* **Kąta przechylenia i prędkości lotu**
-* Prędkości lotu
-* Wielkości oporu
-* Oporu indukowanego
+* **kąta przechylenia i prędkości lotu**
+* prędkości lotu
+* wielkości oporu
+* oporu indukowanego
 
 ## Pytanie PL080-0253
 `Wychylenie którego urządzenia nie jest sprzężone mechanicznie z wychyleniami powierzchni sterowej?`
-* **klapki wywarzającej**
+* **klapki wyważającej**
 * flettnera
 * klapki dociążającej
 * klapka odciążającej
 
 ## Pytanie PL080-0255
-`Wykres zależności Cx = f(&alpha;) dla profilu symetrycznego jest:`
+`Wykres zależności Cx = f(α) dla profilu symetrycznego jest:`
 * **symetryczny względem osi "Cx"**
-* symetryczny względem osi ‘&alpha;’
+* symetryczny względem osi ‘α’
 * symetryczny względem środka układu współrzędnych
 * nie posiada żadnej symetrii
 
@@ -1606,25 +1576,24 @@
 * biegunową skrzydła
 
 ## Pytanie PL080-0258
-`Wykres zależności Cz = f(&alpha;) dla profilu symetrycznego jest:`
+`Wykres zależności Cz = f(α) dla profilu symetrycznego jest:`
 * **symetryczny względem środka układu współrzędnych**
-* symetryczny względem osi ‘&alpha;’
+* symetryczny względem osi ‘α’
 * symetryczny względem osi "Cz"
 * nie posiada żadnej symetrii
 
 ## Pytanie PL080-0259
-`Wykresy jakich zależności dla profilu symetrycznego przechodzą przez
-środek układu współrzędnych?`
-* **Cz = f(&alpha;), Cm = f(&alpha;)**
-* Cz = f(&alpha;), Cx = f(&alpha;)
-* Cx = f(&alpha;), Cm = f(&alpha;)
-* Cz = f(&alpha;), Cz = f(Cx)
+`Wykresy jakich zależności dla profilu symetrycznego przechodzą przez środek układu współrzędnych?`
+* **Cz = f(α), Cm = f(α)**
+* Cz = f(α), Cx = f(α)
+* Cx = f(α), Cm = f(α)
+* Cz = f(α), Cz = f(Cx)
 
 ## Pytanie PL080-0260
 `Wykresy jakich zależności dla profilu symetrycznego są osiowosymetryczne?`
-* **Cx = f(&alpha;), Cz = f(Cx)**
-* tylko Cx = f(&alpha;)
-* Cz = f(&alpha;), Cx = f(&alpha;)
+* **Cx = f(α), Cz = f(Cx)**
+* tylko Cx = f(α)
+* Cz = f(α), Cx = f(α)
 * tylko Cz = f(Cx)
 
 ## Pytanie PL080-0261
@@ -1642,12 +1611,11 @@
 * wzrost wilgotności względnej powietrza
 
 ## Pytanie PL080-0263
-`Z jakich głównych elementów powstaje opór statku powietrznego zwany
-„szkodliwym”?`
-* **Z „oporu kształtu” bryły statku powietrznego i z „oporu tarcia” powietrza o powierzchnię tej bryły.**
-* Z lepkości powietrza i z oporów wirów powstających na bryle statku.
-* Z „oporu kształtu” bryły statku powietrznego i z „oporu indukowanego” powstającego na powierzchni bryły statku.
-* Z „oporu tarcia” powietrza o powierzchnię bryły statku powietrznego i z „oporu interferencyjnego”..
+`Z jakich głównych elementów powstaje opór statku powietrznego zwany „szkodliwym”?`
+* **Z „oporu kształtu” bryły statku powietrznego i z „oporu tarcia” powietrza o powierzchnię tej bryły**
+* Z lepkości powietrza i z oporów wirów powstających na bryle statku
+* Z „oporu kształtu” bryły statku powietrznego i z „oporu indukowanego” powstającego na powierzchni bryły statku
+* Z „oporu tarcia” powietrza o powierzchnię bryły statku powietrznego i z „oporu interferencyjnego”
 
 ## Pytanie PL080-0265
 `Zasada ciągłości ruchu powietrza przepływającego przez tunel o zmiennym przekroju mówi, że:`
@@ -1663,15 +1631,8 @@
 * wyważenie powierzchni sterowej w pozycji neutralnej
 * wyważenie masowe powierzchni sterowej
 
-## Pytanie PL080-0268
-`Zdolność do zachowania stanu równowagi i przeciwdziałania jego zmianom nazywamy:`
-* **statecznością statyczną**
-* statecznością dynamiczną
-* stabilnością statyczną
-* sterownością dynamiczną
-
 ## Pytanie PL080-0269
-`Zdolność do zmiany stanu ustalonego lotu pod wpływem wychylenia odpowiedniego steru nazywamy`
+`Zdolność do zmiany stanu ustalonego lotu pod wpływem wychylenia odpowiedniego steru nazywamy:`
 * **sterownością**
 * statecznością statyczną
 * statecznością dynamiczną
@@ -1693,14 +1654,14 @@
 
 ## Pytanie PL080-0272
 `Zwężenie przekroju strugi powietrza oznacza:`
-* **Malenie statycznego ciśnienia w strudze i wzrost prędkości (+)**
+* **malenie statycznego ciśnienia w strudze i wzrost prędkości (+)**
 * wzrost statycznego ciśnienia w strudze i malenie prędkości
 * wyhamowanie prędkości strugi
 * wzrastanie w strudze ciśnienia spiętrzeniowego
 
 ## Pytanie PL080-0273
 `Zwichrzenie aerodynamiczne skrzydła charakteryzuje się tym, że:`
-* **na końcówkach skrzydeł stosuje się profile, na których oderwanie strug dla &alpha;kryt jest mniej intensywne**
+* **na końcówkach skrzydeł stosuje się profile, na których oderwanie strug dla αkryt jest mniej intensywne**
 * cięciwy profilów geometrycznych w kolejnych przekrojach nie leżą w jednej płaszczyźnie
 * skrzydła wygięte są w dół podczas postoju szybowca na ziemi
 * skrzydła wygięte są w górę podczas lotu
@@ -1710,7 +1671,7 @@
 * **cięciwy profili geometrycznych w kolejnych przekrojach nie leżą w jednej płaszczyźnie**
 * skrzydła wygięte są w dół podczas postoju szybowca na ziemi
 * skrzydła wygięte są w górę podczas lotu
-* na końcówkach skrzydeł stosuje się profile, na których oderwanie strug dla &alpha;kryt jest mniej intensywne
+* na końcówkach skrzydeł stosuje się profile, na których oderwanie strug dla αkryt jest mniej intensywne
 
 ## Pytanie PL080-0275
 `Zwiększająca się siła nośna na skrzydle powoduje zmianę oporu indukowanego na:`
@@ -1720,7 +1681,7 @@
 * mniejszy lub większy w zależności od prędkości lotu
 
 ## Pytanie PL080-0276
-`Zwiększanie kąta natarcia &alpha; &gt; &alpha; kr powoduje:`
+`Zwiększanie kąta natarcia α > α kr powoduje:`
 * **zwiększanie "Cx" oraz zmniejszanie "Cz"**
 * zwiększanie "Cz" oraz zmniejszanie "Cx"
 * zwiększanie "Cx" oraz "Cz"
@@ -1728,9 +1689,9 @@
 
 ## Pytanie PL080-0277
 `Aby obliczyć moment "M" działający na ciało "D", wywołany działaniem siły "P" należy skorzystać ze wzoru:`
-* **M=P*l*sin&alpha;**
-* M=P*l*cos&alpha;
-* M=P*l*tg&alpha;
+* **M=P*l*sinα**
+* M=P*l*cosα
+* M=P*l*tgα
 * M=P*l
 
 ## Pytanie PL080-0278
@@ -1750,7 +1711,7 @@
 ## Pytanie PL080-0280
 `Biegunowa prędkości szybowca to wykres zależności:`
 * **opadania od prędkości w=f(u)**
-* wsp. siły nośnej od wsp. siły oporuCz= f(Cx)
+* wsp. siły nośnej od wsp. siły oporu Cz= f(Cx)
 * wsp. siły nośnej od kąta natarcia Cz=f(a)
 * opadania od prędkości w=f(a)
 
@@ -1769,21 +1730,21 @@
 * zasada zachowania ciśnienia przepływu zamkniętego
 
 ## Pytanie PL080-0285
-`Dla opisania ruchów statku powietrznego (samolotu, śmigłowca, szybowca etc) w przestrzeni stosowany jest układ osi współrzędnych x-y-z.  Jakie oznaczenie nosi oś pionowa?`
+`Dla opisania ruchów statku powietrznego (samolotu, śmigłowca, szybowca etc) w przestrzeni stosowany jest układ osi współrzędnych x-y-z. Jakie oznaczenie nosi oś pionowa?`
 * **z**
 * x
 * y
 * dowolne.
 
 ## Pytanie PL080-0286
-`Dla opisania ruchów statku powietrznego (samolotu, śmigłowca, szybowca etc) w przestrzeni stosowany jest układ osi współrzędnych x-y-z.  Jakie oznaczenie nosi oś podłużna?`
+`Dla opisania ruchów statku powietrznego (samolotu, śmigłowca, szybowca etc) w przestrzeni stosowany jest układ osi współrzędnych x-y-z. Jakie oznaczenie nosi oś podłużna?`
 * **x**
 * y
 * z
 * nie ma oznaczenia
 
 ## Pytanie PL080-0287
-`Dla opisania ruchów statku powietrznego (samolotu, śmigłowca, szybowca etc) w przestrzeni stosowany jest układ osi współrzędnych x-y-z.  Jakie oznaczenie nosi oś poprzeczna?`
+`Dla opisania ruchów statku powietrznego (samolotu, śmigłowca, szybowca etc) w przestrzeni stosowany jest układ osi współrzędnych x-y-z. Jakie oznaczenie nosi oś poprzeczna?`
 * **y**
 * x
 * z
@@ -1791,7 +1752,7 @@
 
 ## Pytanie PL080-0288
 `Doskonałość szybowca jest równa:`
-* **zasięgowi szybowca z wysokości 1000m  w spokojnym powietrzu, wyrażonym w kilometrach**
+* **zasięgowi szybowca z wysokości 1000m w spokojnym powietrzu, wyrażonym w kilometrach**
 * zasięgowi szybowca w spokojnym powietrzu, wyrażonym w kilometrach
 * zasięgowi szybowca z wysokości "H" w spokojnym powietrzu, wyrażonym w kilometrach
 * zasięgowi szybowca z wysokości "H" w spokojnym powietrzu
@@ -1804,7 +1765,7 @@
 * zwiększa się przy maleniu powierzchni przekroju
 
 ## Pytanie PL080-0290
-`Jak się zachowuje obiekt (samolot, śmigłowiec, szybowiec, lotnia etc) niestateczny dynamicznie po wytrąceniu z  równowagi?`
+`Jak się zachowuje obiekt (samolot, śmigłowiec, szybowiec, lotnia etc) niestateczny dynamicznie po wytrąceniu z równowagi?`
 * **Obiekt wykonuje ruch, najczęściej harmoniczny, o rosnącej amplitudzie.**
 * Obiekt wykonuje ruch, najczęściej harmoniczny, o malejącej amplitudzie.
 * Obiekt zachowuje położenie po wytrąceniu z równowagi.
@@ -1821,7 +1782,7 @@
 `Jak zachowuje się szkodliwy opór przy wzroście prędkości lotu?`
 * **Wzrasta z kwadratem prędkości.**
 * Pozostaje stały.
-* Maleje proporconalnie do odwrotności prędkości.
+* Maleje proporcjonalnie do odwrotności prędkości.
 * Waha się.
 
 ## Pytanie PL080-0293
@@ -1835,14 +1796,14 @@
 `Jak zmieni się siła odśrodkowa przy tej samej prędkości lotu w zakręcie jeśli zmniejszy się jego promień?`
 * **Zwiększy się.**
 * Zmniejszy się.
-* Pozostanie bez zmiany
+* Pozostanie bez zmiany.
 * Zmaleje do zera.
 
 ## Pytanie PL080-0295
 `Jak zmieni się siła odśrodkowa przy tej samej prędkości lotu w zakręcie jeśli zmniejszy się jego promień?`
 * **Siła odśrodkowa zwiększy się.**
 * Siła odśrodkowa zmniejszy się.
-* Siła odśrodkowa pozostanie bez zmiany
+* Siła odśrodkowa pozostanie bez zmiany.
 * Siła odśrodkowa zmaleje do zera.
 
 ## Pytanie PL080-0301
@@ -1860,37 +1821,35 @@
 * szybowiec jest niesterowny
 
 ## Pytanie PL080-0304
-`Jeżeli środek ciężkości szybowca z profilem klasycznym znajduje się przed
-środkiem równowagi obojętnej to:`
+`Jeżeli środek ciężkości szybowca z profilem klasycznym znajduje się przed środkiem równowagi obojętnej to:`
 * **szybowiec jest stateczny**
 * szybowiec jest niestateczny
 * szybowiec jest statycznie obojętny
 * szybowiec nie jest stateczny i nie jest niestateczny
 
 ## Pytanie PL080-0305
-`Jeżeli środek ciężkości szybowca z profilem klasycznym znajduje się za
-środkiem równowagi obojętnej to:`
+`Jeżeli środek ciężkości szybowca z profilem klasycznym znajduje się za środkiem równowagi obojętnej to:`
 * **szybowiec jest niestateczny**
 * szybowiec jest niesterowny
 * szybowiec jest stateczny
 * szybowiec nie jest stateczny i nie jest niestateczny
 
 ## Pytanie PL080-0306
-`Kąt toru lotu na stałym kącie natarcia ‘&alpha;’ podczas wzrostu wysokości:`
+`Kąt toru lotu na stałym kącie natarcia ‘α’ podczas wzrostu wysokości:`
 * **pozostaje niezmieniony**
 * wzrasta
 * maleje
 * zmienia się i można go odczytać wykreślając biegunową szybowca
 
 ## Pytanie PL080-0307
-`Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu Cx ma wartość minimalną: &alpha;=&alpha;Cxmin. W wyniku niewielkiego zwiększenia kąta natarcia:`
+`Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu Cx ma wartość minimalną: α=αCx min. W wyniku niewielkiego zwiększenia kąta natarcia:`
 * **stosunek Cz/Cx wzrośnie**
 * stosunek Cz/Cx zmaleje
 * stosunek Cz/Cx nie zmieni się
 * doskonałość płatowca nie zmieni się
 
 ## Pytanie PL080-0308
-`Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu Cx ma wartość minimalną: &alpha;=&alpha;Cxmin. W wyniku niewielkiego zwiększenia kąta natarcia:`
+`Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu Cx ma wartość minimalną:`
 * **doskonałość płatowca wzrośnie**
 * doskonałość płatowca zmaleje
 * doskonałość płatowca nie zmieni się
@@ -1898,11 +1857,10 @@
 
 ## Pytanie PL080-0309
 `Na rodzaj korkociągu główny wpływ mają następujące czynniki:`
-* **-położenie środka ciężkości szybowca; -rozłożenie mas na szybowcu; -usytuowanie i wielkość usterzeń**
-* -położenie środka ciężkości szybowca; -rozłożenie mas na szybowcu; -ustawienie klapki wyważającej
-* -rozłożenie mas na szybowcu; - ustawienie klapki wyważającej ; - usytuowanie i wielkość usterzeń
-* -ustawienie klapki wyważającej ; - położenie środka ciężkości szybowca;
--usytuowanie i wielkość usterzeń
+* **- położenie środka ciężkości szybowca; - rozłożenie mas na szybowcu; - usytuowanie i wielkość usterzeń**
+* - położenie środka ciężkości szybowca; - rozłożenie mas na szybowcu; - ustawienie klapki wyważającej
+* - rozłożenie mas na szybowcu; - ustawienie klapki wyważającej ; - usytuowanie i wielkość usterzeń
+* - ustawienie klapki wyważającej; - położenie środka ciężkości szybowca; - usytuowanie i wielkość usterzeń
 
 ## Pytanie PL080-0310
 `Najmniejsze opadanie ma szybowiec lecący z prędkością:`
@@ -1927,10 +1885,10 @@
 
 ## Pytanie PL080-0314
 `Objawem lotu szybowca w fazie przeciągnięcia jest zazwyczaj:`
-* **-występowanie drgań szybowca lub sterów; -samoczynne zwiększanie pochylenia**
-* -występowanie drgań szybowca lub sterów; -samoczynne zwiększanie prędkości postępowej
-* -zmniejszanie prędkości opadania; - samoczynne zwiększanie prędkości postępowej
-* -samoczynne zwiększanie pochylenia; -zmniejszanie prędkości opadania
+* **- występowanie drgań szybowca lub sterów; - samoczynne zwiększanie pochylenia**
+* - występowanie drgań szybowca lub sterów; - samoczynne zwiększanie prędkości postępowej
+* - zmniejszanie prędkości opadania; - samoczynne zwiększanie prędkości postępowej
+* - samoczynne zwiększanie pochylenia; - zmniejszanie prędkości opadania
 
 ## Pytanie PL080-0315
 `Otworzenie hamulców aerodynamicznych podczas lotu ze stałym wychyleniem drążka sterowego powoduje:`
@@ -1989,11 +1947,11 @@
 * szybowiec nie reaguje na wychylenia sterów z powodu zbyt małej prędkości
 
 ## Pytanie PL080-0325
-`Przyrost momentu pochylającego szybowiec ‘&Delta;M’ powstały w wyniku wychylenia drążka wynosi &Delta;M = &Delta;Pzh*1h, gdzie:`
-* **lH – odległość między środkiem ciężkości szybowca i środkiem aerodynamicznym usterzenia poziomego &Delta;PZH – przyrost siły nośnej na usterzeniu wysokości**
-* lH – odległość między środkiem aerodynamicznym skrzydła i środkiem aerodynamicznym usterzenia poziomego &Delta;PZH – przyrost siły nośnej na usterzeniu wysokości
-* lH – odległość między środkiem aerodynamicznym skrzydła i środkiem aerodynamicznym usterzenia poziomego &Delta;PZH – przyrost siły aerodynamicznej na usterzeniu wysokości
-* lH – odległość między środkiem ciężkości szybowca i środkiem aerodynamicznym usterzenia poziomego &Delta;PZH – przyrost siły aerodynamicznej na usterzeniu wysokości
+`Przyrost momentu pochylającego szybowiec ‘ΔM’ powstały w wyniku wychylenia drążka wynosi ΔM = ΔPzh*1h, gdzie:`
+* **lH – odległość między środkiem ciężkości szybowca i środkiem aerodynamicznym usterzenia poziomego; ΔPZH – przyrost siły nośnej na usterzeniu wysokości**
+* lH – odległość między środkiem aerodynamicznym skrzydła i środkiem aerodynamicznym usterzenia poziomego; ΔPZH – przyrost siły nośnej na usterzeniu wysokości
+* lH – odległość między środkiem aerodynamicznym skrzydła i środkiem aerodynamicznym usterzenia poziomego; ΔPZH – przyrost siły aerodynamicznej na usterzeniu wysokości
+* lH – odległość między środkiem ciężkości szybowca i środkiem aerodynamicznym usterzenia poziomego; ΔPZH – przyrost siły aerodynamicznej na usterzeniu wysokości
 
 ## Pytanie PL080-0326
 `Rozpatrując stateczność szybowca w układzie współrzędnych OXYZ zakładamy, że wszystkie trzy osie układu przechodzą przez:`
@@ -2033,7 +1991,7 @@
 ## Pytanie PL080-0333
 `Stateczność statyczna kierunkowa zależy głównie od:`
 * **- wielkości usterzenia pionowego; - odległości usterzenia od środka ciężkości**
-* - wielkości usterzenia pionowego;  - powierzchni skrzydła
+* - wielkości usterzenia pionowego; - powierzchni skrzydła
 * - odległości usterzenia od środka ciężkości; - ciężaru szybowca
 * - powierzchni skrzydła; - ciężaru szybowca
 
@@ -2048,8 +2006,7 @@
 `Stateczność statyczna poprzeczna zależy głównie od:`
 * **- kąta wzniosu skrzydła; - wielkości usterzenia pionowego; - układu grzbietopłata lub dolnopłata**
 * - kąta wzniosu skrzydła; - wielkości usterzenia pionowego; - położenia środka ciężkości szybowca
-* - wielkości usterzenia pionowego; - położenia środka ciężkości szybowca;
-- układu grzbietopłata lub dolnopłata
+* - wielkości usterzenia pionowego; - położenia środka ciężkości szybowca; - układu grzbietopłata lub dolnopłata
 * - położenia środka ciężkości szybowca; - układu grzbietopłata lub dolnopłata; - kąta wzniosu skrzydła
 
 ## Pytanie PL080-0336
@@ -2089,10 +2046,10 @@
 
 ## Pytanie PL080-0341
 `W celu wyprowadzenia szybowca z fazy autorotacji należy w kolejności:`
-* **-wychylić ster kierunku w stronę przeciwną do kierunku przechylania; - odepchnąć drążek sterowy**
-* -wychylić ster kierunku w stronę przeciwną do kierunku przechylania; - pociągnąć drążek sterowy
-* -wychylić lotki w stronę przeciwną do kierunku przechylania; -pociągnąć drążek sterowy
-* -wychylić lotki w stronę przeciwną do kierunku przechylania; -odepchnąć drążek sterowy
+* **- wychylić ster kierunku w stronę przeciwną do kierunku przechylania; - odepchnąć drążek sterowy**
+* - wychylić ster kierunku w stronę przeciwną do kierunku przechylania; - pociągnąć drążek sterowy
+* - wychylić lotki w stronę przeciwną do kierunku przechylania; - pociągnąć drążek sterowy
+* - wychylić lotki w stronę przeciwną do kierunku przechylania; - odepchnąć drążek sterowy
 
 ## Pytanie PL080-0342
 `W celu wyprowadzenia szybowca z fazy przeciągnięcia do lotu ustalonego należy:`
@@ -2103,31 +2060,28 @@
 
 ## Pytanie PL080-0343
 `W celu wyprowadzenia szybowca z korkociągu należy w kolejności:`
-* **-wychylić ster kierunku w stronę przeciwną do kierunku przechylania; - odepchnąć drążek sterowy; -po ustaniu obrotów rozpędzić szybowiec i wyprowadzić z lotu nurkowego**
-* -wychylić ster kierunku w stronę przeciwną do kierunku przechylania; - pociągnąć drążek sterowy; -po ustaniu obrotów rozpędzić szybowiec i wyprowadzić z lotu nurkowego
-* -wychylić lotki w stronę przeciwną do kierunku przechylania; -pociągnąć drążek sterowy; -po ustaniu obrotów rozpędzić szybowiec i wyprowadzić z lotu nurkowego
-* -wychylić lotki w stronę przeciwną do kierunku przechylania; -odepchnąć drążek sterowy; -po ustaniu obrotów rozpędzić szybowiec i wyprowadzić z lotu nurkowego
+* **- wychylić ster kierunku w stronę przeciwną do kierunku przechylania; - odepchnąć drążek sterowy; - po ustaniu obrotów rozpędzić szybowiec i wyprowadzić z lotu nurkowego**
+* - wychylić ster kierunku w stronę przeciwną do kierunku przechylania; - pociągnąć drążek sterowy; - po ustaniu obrotów rozpędzić szybowiec i wyprowadzić z lotu nurkowego
+* - wychylić lotki w stronę przeciwną do kierunku przechylania; - pociągnąć drążek sterowy; - po ustaniu obrotów rozpędzić szybowiec i wyprowadzić z lotu nurkowego
+* - wychylić lotki w stronę przeciwną do kierunku przechylania; - odepchnąć drążek sterowy; - po ustaniu obrotów rozpędzić szybowiec i wyprowadzić z lotu nurkowego
 
 ## Pytanie PL080-0344
 `W celu zmniejszenia pochylenia szybowca:`
 * **należy wychylić drążek sterowy na siebie**
 * należy wychylić ster wysokości w dół
-* wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot
-„w górę”
+* wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot „w górę”
 * przyrost momentu pochylającego szybowiec musi mieć wartość dodatnią
 
 ## Pytanie PL080-0345
 `W celu zmniejszenia pochylenia szybowca:`
 * **przyrost momentu pochylającego szybowiec musi mieć wartość do ujemną**
 * należy wychylić ster wysokości w dół
-* wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot
-„w górę”
+* wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot „w górę”
 * należy wychylić drążek sterowy od siebie
 
 ## Pytanie PL080-0346
 `W celu zmniejszenia pochylenia szybowca:`
-* **wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot
-„w dół”**
+* **wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot „w dół”**
 * należy wychylić ster wysokości w dół
 * przyrost momentu pochylającego szybowiec musi mieć wartość dodatnią
 * należy wychylić drążek sterowy od siebie
@@ -2136,8 +2090,7 @@
 `W celu zmniejszenia pochylenia szybowca:`
 * **należy wychylić ster wysokości w górę**
 * przyrost momentu pochylającego szybowiec musi mieć wartość dodatnią
-* wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot
-„w górę”
+* wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot „w górę”
 * należy wychylić drążek sterowy od siebie
 
 ## Pytanie PL080-0348
@@ -2145,32 +2098,21 @@
 * **należy wychylić drążek sterowy od siebie**
 * przyrost momentu pochylającego szybowiec musi mieć wartość do ujemną
 * należy wychylić ster wysokości do góry
-* wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot
-„w dół”
+* wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot „w dół”
 
 ## Pytanie PL080-0349
 `W celu zwiększenia pochylenia szybowca:`
 * **należy wychylić ster wysokości w dół**
 * należy wychylić drążek sterowy na siebie
 * przyrost momentu pochylającego szybowiec musi mieć wartość do ujemną
-* wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot
-„w dół”
+* wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot „w dół”
 
 ## Pytanie PL080-0350
 `W celu zwiększenia pochylenia szybowca:`
-* **wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot
-„w górę”**
+* **wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot „w górę”**
 * należy wychylić drążek sterowy na siebie
 * należy wychylić ster wysokości do góry
 * przyrost momentu pochylającego szybowiec musi mieć wartość do ujemną
-
-## Pytanie PL080-0351
-`W celu zwiększenia pochylenia szybowca:`
-* **przyrost momentu pochylającego szybowiec musi mieć wartość dodatnią**
-* należy wychylić ster wysokości w dół
-* wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot
-„w górę”
-* należy wychylić drążek sterowy od siebie
 
 ## Pytanie PL080-0352
 `W jakim dokumencie zawarte są informacje o osiągach statku powietrznego (śmigłowca, samolotu, szybowca etc)?`
@@ -2180,14 +2122,14 @@
 * W rozporządzeniach Urzędu Lotnictwa Cywilnego.
 
 ## Pytanie PL080-0353
-`W jakim profilu wywoływana zmianami kąta natarcia wędrówka środka parcia jest najmniejsza ?`
+`W jakim profilu wywoływana zmianami kąta natarcia wędrówka środka parcia jest najmniejsza?`
 * **w profilu symetrycznym**
 * w profilu laminarnym
 * w profilu niesymetrycznym
 * w profilu wklęsło-wypukłym
 
 ## Pytanie PL080-0354
-`W spokojnym powietrzu, optymalny kąt toru lotu ‘&upsih;’, podczas wzrostu ciężaru szybowca:`
+`W spokojnym powietrzu, optymalny kąt toru lotu ‘ϒ’, podczas wzrostu ciężaru szybowca:`
 * **pozostaje niezmieniony**
 * wzrasta
 * maleje
@@ -2197,32 +2139,32 @@
 `W ustalonym locie poziomym prostoliniowym współczynnik obciążenia szybowca ‘n’ wynosi:`
 * **n=1**
 * n=0
-* 0&lt;n&lt;1
-* n&gt;1
+* 0<n<1
+* n>1
 
 ## Pytanie PL080-0356
 `W ustalonym zakręcie współczynnik obciążenia szybowca ‘n’ wynosi:`
-* **n&gt;1**
+* **n>1**
 * n=1
 * n=0
-* 0&lt;n&lt;1
+* 0<n<1
 
 ## Pytanie PL080-0357
-`W wyniku niewielkiego zwiększania kąta natarcia &alpha;=&alpha; optymalne :`
+`W wyniku niewielkiego zwiększania kąta natarcia α=α optymalne:`
 * **procentowe zwiększenie "Cx" będzie większe od procentowego zwiększenia "Cz"**
 * procentowe zwiększenie "Cz" będzie większe od procentowego zwiększenia "Cx"
 * procentowe zwiększenie "Cx" będzie takie same jak procentowe zwiększenia "Cz"
 * doskonałość profilu nieznacznie wzrośnie
 
 ## Pytanie PL080-0358
-`W wyniku niewielkiego zwiększania kąta natarcia &alpha;=&alpha; optymalne :`
+`W wyniku niewielkiego zwiększania kąta natarcia α=α optymalne:`
 * **stosunek Cz/Cx zmaleje**
 * stosunek Cz/Cx wzrośnie
 * stosunek Cz/Cx nie zmieni się
 * doskonałość profilu nieznacznie wzrośnie
 
 ## Pytanie PL080-0359
-`W wyniku niewielkiego zwiększania kąta natarcia &alpha;=&alpha; optymalne :`
+`W wyniku niewielkiego zwiększania kąta natarcia α=α optymalne:`
 * **doskonałość profilu zmaleje**
 * doskonałość profilu wzrośnie
 * doskonałość profilu nie zmieni się
@@ -2240,10 +2182,10 @@
 * **- wzrost Cz; - wzrost Cx; - spadek doskonałości szybowca**
 * - wzrost Cz; - wzrost Cx; - wzrost doskonałości szybowca
 * - wzrost Cz; - wzrost Cx; - nie zmieniona doskonałość szybowca
-* #NAZWA?
+* - tylko wzrost Cz i doskonałości szybowca
 
 ## Pytanie PL080-0364
-`Wykres zależności prędkości opadania szybowca w funkcji promienia zakrętu  w = f(R) nazywamy:`
+`Wykres zależności prędkości opadania szybowca w funkcji promienia zakrętu w = f(R) nazywamy:`
 * **biegunową krążenia szybowca**
 * biegunową prędkości szybowca
 * biegunową szybowca
@@ -2257,7 +2199,7 @@
 * silny moment zadzierający szybowiec
 
 ## Pytanie PL080-0369
-`Z jaką właściwością związany jest spadek prędkości powietrza w warstwie przyściennej profilu lotniczego`
+`Z jaką właściwością związany jest spadek prędkości powietrza w warstwie przyściennej profilu lotniczego?`
 * **lepkością powietrza**
 * gęstością powietrza
 * bezwładnością powietrza

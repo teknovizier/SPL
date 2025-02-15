@@ -4,7 +4,7 @@ To jest fork nieobliczalnego repozytorium [fifly/SPL](https://github.com/fifly/S
 
 [Przykładowe pytania egzaminacyjne na stronie ULC](http://www.ulc.gov.pl/pl/personel-lotniczy/komisja-egzaminacyjna/egzaminy-teoretyczne/3956-przykladowe-pytania-egzaminacyjne) [dostęp: 14 lutego 2025]
 
-Pytania zostały podzielone na przedmioty zgodnie z wymaganiami egzaminacyjnymi. Repozytorium będzie aktualizowane, aby uwzględnić zmiany w pytaniach egzaminacyjnych na moment lutego 2025 roku.
+Pytania zostały podzielone na przedmioty zgodnie z wymaganiami egzaminacyjnymi.
 
 ## Pytania
 
@@ -17,5 +17,5 @@ Pytania zostały podzielone na przedmioty zgodnie z wymaganiami egzaminacyjnymi.
 | [Meteorologia](meteorologia.md) | ✅ |
 | [Nawigacja](nawigacja.md) | ✅ |
 | [Procedury operacyjne](procedury-operacyjne.md) | ✅ |
-| [Zasady lotu](zasady-lotu.md) | ❌ |
+| [Zasady lotu](zasady-lotu.md) | ✅ |
 | [Łączność](lacznosc.md) | ✅ |
